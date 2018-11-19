@@ -1,0 +1,764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+
+	<!-- Game Hints -->
+    <string name="game_hint">Nápověda</string>
+
+    <!-- Loading screen hints -->
+    <string name="loading_hint_1">Roboti plní základní úlohy mnohem efektivněji než lidé. Je dobré jich pár vyrobit a nechat kolonisty soustředit se na mnohem pokročilejší úkony.</string>
+   	<string name="loading_hint_2">Pohyb kolem základny zabere kolonistům nějaký čas a tak je dobré se ujistit, že jsou kolem jejich pracovišť snadno dostupné obytné prostory.</string>
+    <string name="loading_hint_3">V přehledných grafech je možné sledovat například vývoj stavů zásob potravin, když kolonisté začnou hladovět, je už většinou pozdě.</string>
+    <string name="loading_hint_4">Je dobrý mít více přístupů do důležitých budov. Když bude jediný přístup zničen, mohou kolonisté uváznout a zemřít.</string>
+    <string name="loading_hint_5">Blahobyt na vaší základně je důležitý, pokud se stav zhorší, nebudou přicházet žádné nové posily.</string>
+    <string name="loading_hint_6">Během životního cyklu vaší základny se budou lišit nároky na personál. Ujisti se, že máš vždy správně nastavené parametry v panelu přistávacích oprávněních.</string>
+    <string name="loading_hint_7">Budovy které jsou obvykle přeplněné (jako noclehárna a bio-dóm), spotřebují více vzduchu než ty prázdné. </string>
+    <string name="loading_hint_8">Když dojde k výpadku proudu, nejvzdálenější budovy od zdroje energie budou vypnuty jako první. Vem to v potaz při plánování základny.</string>
+    <string name="loading_hint_9">Je dobré povolovat příchod nových kolonistů pouze v případě, že se je s tím základna schopná vypořádat.</string>
+    <string name="loading_hint_10">Při umísťování nových komponent je možné použít klávesu shift, k umístění více klonů stejného druhu.</string>
+    <string name="loading_hint_11">Všechny důležité příkazy mají svou klávesou zkratku, využívej je k efktivnější správě tvojí kolonie.</string>
+    <string name="loading_hint_12">Stav malé budovy v začátcích hry, kdy máš jen opravdu málo zdrojů. Až v pozdější fázi začni stavět větší, protože jsou i přes vyšší náklady mnohem efektivnější.</string>
+    <string name="loading_hint_13">Větší solární panely a větrné turbíny jsou efektivnější, protože mají například menší spotřebu náhradních dílů.</string>
+    <string name="loading_hint_14">Grafy uložišť energie a vody ti mohou prozradit, kterého je v danou chvíli potřeba postavit více.</string>
+    <string name="loading_hint_15">Předtím než dosáhneš vysoké úrovně prestiže se ujisti, že máš naverbované nějaké ozbrojené stráže, protože upoutáš pozornost útočníků.</string>
+    <string name="loading_hint_16">Získání patentů na výrobu masivních struktur, ti dost usnadní budování velké základny.</string>
+    <string name="loading_hint_17">Jedním kliknutím na panelu sítí, můžeš vyřadit z provozu všechny nedůležité budovy a uštřit tak energii v případě krize.</string>
+    <string name="loading_hint_18">Pravým kliknutím na výstrahy je smažete bez zaměření se na oblast odkud přišly.</string>
+
+    <!-- Help -->
+    <string name="camera">Kamera</string>
+    <string name="structures">Stavby</string>
+    <string name="interior_structures">Uzavřené stavby</string>
+    <string name="exterior_structures">Venkovní stavby</string>
+    <string name="components">Komponenty</string>
+    <string name="topics">Témata</string>
+    <string name="power_grid">Energetická síť</string>
+    <string name="see_also">Další témata</string>
+    <string name="colonist_status">Stav kolonisty</string>
+    <string name="oxygen_flow">Průtok vzduchu</string>
+    <string name="recycling">Recylace</string>
+    <string name="leisure_components">Volnočasové komponenty</string>
+    <string name="vegetable_pads">Rostliné podložky</string>
+    <string name="table">Stůl</string>
+    <string name="disasters">Katastrofy</string>
+    <string name="meteor">Meteor</string>
+    <string name="sandstorm">Písečná bouře</string>
+    <string name="blizzard">Blizzards</string>
+    <string name="thunderstorm">Thunderstorms</string>
+    <string name="solar_flare">Sluneční erupce</string>
+    <string name="conditions">Kondice</string>
+
+    <string name="help_main_text">
+V (game_title) buduješ základnu na mimozemské planetě a snažíš se udržet svěřené kolonisty při životě.(n)
+Nekontroluješ kolonisty přímo, ale buduješ struktury, které jim v jejich přežití pomáhají.(n)
+Tento průvodce přibližuje některé mechaniky trochu podrobněji než úvodní tutoriál a je jeho cílem pomoci vybudovat soběstačnou základnu.(n)
+Nicméně pro rychlou orientaci jsou u všech položek v UI popisky, které stručně vysvětlují účel jednotlivých položek. Stačí přes ikony přejet myší.(n)
+    </string>
+
+   	<string name="help_camera">
+Kameru lze ovládat různými způsoby.
+
+Pohyb kamerou:
+  WASD nebo Šipky
+  Případně umístěním kurzoru myši po okrajích obrazovky.
+
+Rotace:
+  Klávesami QE
+  Držením prostředního tlačíka myši
+
+Zoom:
+  Klávesasmi RF
+  Kolečkem myši
+
+Pozor! Jsou zde popsány klávesy v defaultím nastavení, pokud si jej změníte, pak to neplatí.
+    </string>
+
+   	<string name="help_structures">
+Stavby, které mohou být postaveny v základně jsou různorodé. Jsou rozdělené do dvou hlavních kategorií: uzavřené a venkovní.(n)
+Kolonisté mohou, pro přechod z vnitřku ven, používat přechodovou komoru.(n)
+   	</string>
+
+   	<string name="help_interior_structures">
+Budovy s atmosférou. Kolonisté se v nich mohou pohybovat bez použití skafandrů.(n)
+Všechny uzavřené budovy musí být mezi sebou propojeny, není možné je stavit izolované. Měj toto na mysli při plánování své kolonie.(n)
+   	</string>
+
+   	<string name="help_exterior_structures">
+Budovy umístěné v okolí základny. Neudrží atmosféru a tedy se v nich a okolo nich musí kolonisté pohybovat ve skafandrech.(n)
+   	</string>
+
+   	<string name="help_airlock">
+Budova, která kolonistům umožňuje vstup a výstup ze základny. Může být připojen pouze k další uzavřené budově, tedy je potřeba být při umisťování opatrný.(n)
+Přechod je vcelku pomalý, takže v pozdějších fázích může dojít k jeho přetížení.(n)
+Ujisti se, že je umisťuješ na správných místech, například poblíž skladišťe, přistávací plochy a hvězdného přístavu, což umožní efektivnější obchodování.(n)
+    </string>
+
+    <string name="help_oxygen_generator">
+Uzavřená budova, která využívá elektřiny k výrobě vzduchu z vody.(n)
+Vzduch zde produkovaný vane do dalších připojených budov a činí je tak obyvatelnými.(n)
+Když je budova označena, infopanel zobrazí její statistiky a hlavně aktuální stav vzduchu. Když je úroveň vzduchu nízká, budova se zbarví do ruda a zobrazí se nad ní výstražné znamení.(n)
+    </string>
+
+	<string name="help_canteen">
+Uzavřená budova, kde se mohou kolonisté najíst a napít vody.(n)
+Kolonisté si zde mohou vyzvednout jídlo ve výrobníku jídla a posadit se s ním ke stolu. Pokud nejsou stoly přítomny, sní si své jídlo kolonista na zemi, ale bude mu snižována morálka. (n)
+K zahnání žízně a zabránění smrti z dehydratace, zde může být postavena napájecí fontánka.
+    </string>
+
+    <string name="help_dorm">
+Uzavřená budova, která v základně slouží jako hlavní místo k přespání. Zde je možné rozestavit palandy, které jsou nejúspornější ve využití prostoru a zvýšují tak kapacity k přespání.(n)
+Z důvodu minimalizace hluku a vůbec pohybu kolonistů, může mít tato budova pouze jedno připojení.
+    </string>
+
+    <string name="help_cabin">
+Uzavřená budova, která je sekundární budovou určenou k přespání, která má menší kapacity, ale za to garantuje lepší kvalitu spánku. Zde je možné rozmístit postele, které jsou vlastněné konkrétními kolonisty, kteří zde budou přespávat vždy. Spánek zde trvá kratší dobu a navíc se obnovuje i morálka.(n)
+Tato budova může mít pouze jedno spojení.(n)
+    </string>
+
+    <string name="help_bio_dome">
+Uzavřená budova, která je hlavním producentem potravin. Zde se rozmisťují hydroponické zeleninové podložky v kterých se může pěstovat většina zeleniny, která může být následně zpracována v jídlo, ve výrobníku jídla.(n)
+Hydroponické zeleninové podložky musí být udržovány biology, jinak se rozpadnou a zastaví se tak produkce.(n)
+    </string>
+
+    <string name="help_processing_plant">
+Uzavřená budova, kde se surové materiály, jako Ruda a Škrob, zpracovávají v rafinovaný materiál jako Kov a Bioplast. (n)
+To se děje ve zpracovně kovu a ve zpracovně biplastu. Oboje musí být spravované dělníky.(n)
+    </string>
+
+    <string name="help_factory">
+Uzavřená budova, kde se produkují náhradní díly, polovodiče a zbraně.
+Všechny komponenty v továrně jsou ovládané inženýry.
+    </string>
+
+	<string name="help_multi_dome">
+Uzavřená budova, která je víceúčelová a určena pro volnočasové aktivity.(n)
+    </string>
+
+    <string name="help_bar">
+Uzavřená budova, kde kolonisté a návštěvníci mohou relaxovat a užívat si alkoholické nápoje.(n)
+Alkoholické nápoje jsou produkovány v Nápojovém automatu, ze zeleniny.
+    </string>
+
+    <string name="help_storage">
+Uzavřená budova, kde se skladují nevyužité zdroje.(n)
+Uskladněné zdroje se nekazí.(n)
+Většinou je velmi vhodné umístit takový sklad poblíž přechodové komory, přistávací plochy, případně hvězdného přístavu, což umožní obchodovat efektivně.
+    </string>
+
+    <string name="help_control_center">
+Uzavřená budova, určená ke kontrole ostatních budov.(n)
+Je potřeba ke zpřístupnění panelu bezpečnostní kontroly, který ti umožní nastavit bezpečnostní status kolonie.(n)
+Je zde možné postavit více druhů knzolí pomocí kterých budou kolonisté kontrolovat více budov, jako rádiová anténa a teleskop.(n)
+    </string>
+
+    <string name="help_robotics_facility">
+Uzavřená budova, kde se vyrábí a opravují roboti.
+Nezapomeň, že k produkci stavebních a těžebních robotů, ja potřeba zakoupit potřebné technologické patenty u obchodníků.(n)
+    </string>
+
+    <string name="help_sick_bay">
+Uzavřená budova, kde mohou kolonisté a návštěvníci vyhledat potřebnou lékařskou péči.(n)
+    </string>
+
+    <string name="help_lab">
+Uzavřen budova kde může doktor vyrábět lékařské zásoby a syntetické maso.(n)
+    </string>
+
+   	<string name="help_solar_panel">
+Venkovní struktura, která představuje vcelku předvídatelný zdroj energie. Během dne a slunečního svitu pracuje a v noci ne.(n)
+Může být postaven v různých velikostech. Čím větší je, tím je dražší, ale prodokuje více nergie.(n)
+Obvykle je dobré jich postavi hned několik a hned vedle umístit uložiště energie, které nastřádá energii pro použití v noci.(n)
+Solární panely a větrné turbíny musí být připojeny k budovám kterým dodávají energii. (n)
+Solární panely musí být udržovány pomocí náhrdních dílů. Čím větší, tím častěji musí být udržovány, ale stále jsou mnohem více efektivní než ty menší, díky velké produkci energie.(n)
+   	</string>
+
+   	<string name="help_wind_turbine">
+Venkovní struktura která využívá proudění vzduchu v atmosféře k výrobě elektřiny, kdy se tedy předpokládá, že planeta atmosféru má a proudění vzduchu je dostatečné.(n)
+Vzhledem k tomu, že je to vcelku nespolehlivý zdroj energie, je potřeba je kombinovat se Solárními panely a Uložišti energie.(n)
+Větrné turbíny jsou jediným zdrojem během noci a v průběhu písečné bouře. Je tedy dobré jich pár mít, aby nebylo nutné stavět zbytečně mnoho Uložišť energie.(n)
+Solární panely a Větrné turbíny musí být připojeny k budovám pro které distribuují elektrickou energii.(n)
+Větrné turbíny musí být udržovány pomocí náhradních dílů. Čím větší, tím častěji je vyžadována udržba, ale stále jsou mnohem více efektivní než ty menší, díky velké produkci energie.(n)
+   	   	</string>
+
+   	<string name="help_power_collector">
+Venkovní struktura, která ukládá přebytky energie v síti pro pozdější využití, kdy v případě nedostatku, ji zase uvloňuje zpět.
+Pokud energetická síť generuje více energie než je spotřebováno, začne se ukládat do jednoho z prázdných uložišť energie.(n)
+Čím jsou větší přebytky, tím rychleji se uložiště energie doplňují.(n)
+Pokud je v energetické síti nedostatečná produkce energie, začne být spotřebována i z jednoho z uložišť dokud se nevyprázdní. Pokud již není žádné k dispozici, začnou se postupně vypínat budovy.(n)
+Obvykle jich budete potřebovat pár v záloze pro pokrytí správného fungování základny, protože kombinace solárních panelů a větrných turbín může vyrábět elektřinu za všech okolností.(n)
+   	</string>
+
+   	<string name="help_water_extractor">
+Venkovní struktura, která zahříváním půdy získává páru k extrakci vody. Je to na energii velmi náročný proces.(n)
+Výrobník vody musí být připojen k ostatním budovám, pro zajištění stálého přísunu vody.(n)
+Zásobování vody z výrobníku může často kolísat, pak může být dobrý nápad mít Vodní nádrž, která tyto výkyvy kompenzuje. (n)
+   	</string>
+
+   	<string name="help_water_tank">
+Venkovní struktura, která ukládá vodu pro pozdější využití v případě výpadku zásobování vodou.
+Je levnější postavit několik zásobníků, než se pokoušet kompenzovat výpadky dalšími výrobníky.
+   	</string>
+
+   	<string name="help_landing_pad">
+Venkovní struktura, která umožňuje malým kolonistickým nebo obchodním lodím přistání. (n)
+Nový kolonisté přijdou pouze tehdy pokud je úroveň blaha a prestiže na vysoké úrovni. Blaho a prestiž určují jak často a kolik nových kolonistů přistane na tvojí základně.(n)
+   	</string>
+
+	<string name="help_starport">
+Venkovní struktura, která umožňuje přistání malým i velkým lodím jakéhokoliv druhu.(n)
+Noví kolonisté a návštěvníci přijdou pouze tehdy je-li úroveň blaha na dostatečné úrovni. laho a prestiž určují jak často a kolik nových kolonistů přistane na tvojí základně.(n)
+   	</string>
+
+	<string name="help_mine">
+Venkovní struktura ve které dělníci nebo těžební roboti získávají z půdy rudu. (n)
+Důl musí být umístěn na úpatí hory (stejně tak v blízkosti některých budov, aby mohl být připojen).
+   	</string>
+
+	<string name="help_radio_antenna">
+Venkovní struktura, která slouží k příjmu tísňových volání. (n)
+Jakmile je tísňové volání zachyceno je pak na tobě rozhodnutí, zda lodi dovolíš přistát na základně nebo ne.(n)
+Tato struktura je na dálku ovládána z rádiové konzole v kontrolním centru. Což znamená, že aby správně fungovala, musí být současně někdo kdo ji bude ovládat.(n)
+Každou radiovou anténou kterou postavíš, zvyšuješ pravděpodobnost zachycení nějakého volání.(n)
+   	</string>
+
+    <string name="help_telescope">
+Venkovní stuktura, která pomáhá předpovídat nadcházející pohromy jako sněhové bouře, píšečné bouře nebo sluneční erupce. Stejně tak může fungovat ve spolupráci s laserem proti meteoritům, který je při přiblížení zničí.(n)
+Tato structura je na dálku ovládána z konzole teleskopu v kontrolním centru. Což znamená, že aby správně fungoval, musí být současně někdo kdo jej bude ovládat.(n)
+Každý teleskop který postavíš, zvyšuje šanci na odhalení blížících se pohrom.(n)
+     	</string>
+
+	<string name="help_anti_meteor_laser">
+Venkovní stuktura, která ničí blížící se meteority.(n)
+Pravděpodobnost detekce blížícího se meteoritu závisí na počtu teleskopů, které jsou obsluhovány v daném okamžiku.(n)
+Laseru proti meteoritům chvilku trvá než se nabije a dokáže pokrýt jen omezenou oblast ve svém okolí, takže je vhodné postavit jich více na planetách, kde jsou meteority hrozbou.(n)
+ 	</string>
+
+  <string name="help_lightning_rod">
+Venkovní struktura, která chrání základnu porti úderům blesku.(n)
+Když uděří nějaký blesk v jejím okolí, absorbuje jeho energii, ochrání kolonisty před zraněním a uloží energii do uložiště energie.(n)
+  </string>
+
+  <string name="help_signpost">
+Venkovní struktura, který zobrazuje informace o kolonii. Zvyšuje prestiž.(n)
+   	</string>
+
+    <string name="help_pyramid">
+Venkovní struktura, která nemá žádné využití v reálném provozu, ale zvyšuje prestiž. (n)
+       	</string>
+
+		<string name="help_monolith">
+Venkovní struktura, která je neskutečně drahá a úplně nesmyslná. Nicméně zvyšuje prestiž tvojí základny.(n)
+   	</string>
+
+	<string name="help_connection">
+
+Všechny budovy v základně musí být propojené ve společné síti, aby správně fungovali.(n)
+Propojené budovy sdílejí energii, vodu a v případě uzavřených budov navíc i vzduch a propojení umožňují kolonistům mezi nimi procházet.(n)
+K propojení budovy potřebuješ:
+- Kliknout na jednu a následně na tu, kterou chceš spojit.
+- Pokud mohou být budovy propojen, objeví se spojovací symbol na který můžeš kliknout.
+- Když umisťuješ budovu, je ti zobrazován ukazatel, který tě informuje o potenciálních spojeních, které je možné udělat.
+     </string>
+
+    <string name="help_power_grid">
+Většina budov potřebuje ke správnému fungování zásobování energií, čehož dosáhneš, když budou všechny budovy ve společné síti s generátory energie, jako jsou solární panely nebo větrné turbíny.(n)
+Každý generátor energie produkuje určité množství energie v souvislosti s okolnostmi: Solární panel generuje energii pouze přes den a Větrné turbíny potřebují proudění vzduchu.(n)
+Každý konzument (všechny budovy a komponenty na základně), spotřebovává svůj díle nergie, který potřebuje k fungování. Když bude v nějaké budově nedostatek energie, dojde k jejímu vypnutí.(n)
+Můžeš využít uložišť energie k úschově přebytečné energie, která je z nich následně v případě potřeby uvolňována zpět do sítě. Většinou přes noc nebo za úplného bezvětří.(n)
+Většinou se tedy neobejdeš bez kombinace solárních panelů, větrných turbín a uložišť energie.(n)
+Na každé budově lze zkontrolovat kolik energie spotřebovává, když ji označíš, objeví se info panel.(n)
+   	</string>
+
+   	<string name="help_water_grid">
+Některé budovy, jako generátor vzduchu nebo některé komponenty, jako napájecí fontánka nebo hydroponické podložky, potřebují stálé zásobování vodou.(n)
+Vodu lze získávat z půdy pomocí výrobníku vody.(n)
+Každý z konzumentů vody potřebuje ke správnému fungování určité množství, když je jí nedostatek, tak přestanou fungovat.(n)
+Produkce vody může občas kolísat a tak je dobré mít ji v záloze ve vodních nádržích.(n)
+   	</string>
+
+	<string name="help_components">
+Některé uzavřené budovy mohou být rozšířeny pomocí komponent, které rozšíří její využití. (n)
+Přidání nebo odebrání komponent v takové budově docílíš jejím označením a kliknutím na tlačítko editace.(n)
+Většina z budov má unikátní komponenty, ale pár jich je sdílených. (n)
+    </string>
+
+	<string name="help_meal_maker">
+Komponenta jídelny, která produkuje jídlo ze zeleniny nebo syntetického masa.(n)
+Každá z krabic zeleniny a syntetického masa, může být zpracována na základní jídlo, ale když je ve výrobníku přítomna pestrá kombinace těchto surovin, lze vyrábět složitější jídla, jako těstoviny, salát nebo haburgery.(n)
+Složitější jídla obnovují morálku a doashují kvalitnějších nutričních hodnot, což chrání před podvíživou.(n)
+Kompletní seznam receptů je:
+(recipe_list)
+    </string>
+
+	<string name="help_tissue_synthesizer">
+Laboratorní komponenta, která produje syntetické maso.(n)
+Není to tak efektivní jako pěstování zeleniny, ale je to dobré využití prostoru v laboratoři.(n)
+Musí být obsluhována Biology.(n)
+    </string>
+
+    <string name="help_drinking_fountain">
+Komponenta, která umožňuje kolonistům doplňovat tekutiny.
+Jsou levné a mohou být umístěny v jídelně, baru nebo víceúčelové budově. Musí být zásobovány vodou.(n)
+    </string>
+
+	<string name="help_table">
+Komponenta, která umožňuje kolonistům si v pohodlí sníst své jídlo a vypít alkoholický nápoj.(n)
+Kolonisté mohou jíst na zemi, když nejsou dostupné stoly, ale snižuje jim to morálku a nepřidá to mnoho na nutriční hodnotě.(n)
+    </string>
+
+	<string name="help_leisure_component">
+Komponenta která slouží kolonistům k odpočinku a obnově morálky. (n)
+Jednotlivec nebude většinou stejnou stále do kola, takže je vhodné jich mít více najednou.(n)
+    </string>
+
+    <string name="help_vegetable_pad">
+Komponenta Bio-Dómu, která je využita k pěstování zeleniny. Každá podložka produkuje zeleninu pravidelně a tak dlouho, dokud je v dobré kondici. (n)
+Kondice se průběžně snižuje a je tedy potřeba, aby byly podložky pravidelně udržovány Biology v dobrém stavu.(n)
+Některé typy také produkují škrob. V tomto případě je však produkováno méně jídla.(n)
+Některé typy produkují plodiny rychleji, ale potřebují být o to častěji udržovány. Některé pak mají produkci pomalejší, ale údržba u nic nemusí být tak častá.(n)
+    </string>
+
+	<string name="help_bunk">
+Komponenta noclehárny, kde se vyspí dva kolonisté.(n)
+    </string>
+
+	<string name="help_bed">
+Komponenta kabiny, na které se vyspí konkrétní kolonisté. Jakmile si ji jendou kolonista zabere, spí zde již napořád. Je zde obnovována morálka.(n)
+    </string>
+
+	<string name="help_bioplastic_processor">
+Komponenta výrobní plošiny, kde dělník zpracovává škrob v bioplast.(n)
+    </string>
+
+	<string name="help_metal_processor">
+Komponenta výrobní plošiny, kde dělník zpracovává rudu v kov.(n)
+    </string>
+
+	<string name="help_workbench">
+Komponent laboratoře, kde medic vyrábí lékařské zásoby z léčivých rostlin a bioplastu.(n)
+    </string>
+
+	<string name="help_security_console">
+Komponenta kontrolního centra, kde strážci dohlížejí na bezpečnostní kamery v některých uzavřených budovách.(n)
+Pokud narušitel projde některou z monitorovaných budov, je detekován a zneškodněn dříve, než stačí napáchat větší škody.(n)
+Každá konzole může monitorovat jen omezený počet budov, takže pro pokrytí celé základny jich budete pravděpodobně potřebovat větší množství.(n)
+    </string>
+
+	<string name="help_armory">
+Komponenta kontrolního centra, kde si strážci mohou uskladnit své zbraně. Strážci (nebo i kolonisté během rudého poplachu) jsou si zde schopni vyzvednout zbraně.(n)
+    </string>
+
+	<string name="help_medical_cabinet">
+Komponenta ošetřovny, kde se ukládají lékařské zásoby.(n)
+    </string>
+
+	<string name="help_radio_console">
+Komponenta kontrolního centra kde dělníci mohou vládat rádiovou anténu.(n)
+Rádiová anténa musí být pod neustálým dohledem, k čemuž každá anténa potřebuje vyhrazenou konzoli a dělníka.(n)
+    </string>
+
+	<string name="help_telescope_console">
+Komponenta kontrolního centra, kterou inženýr ovládá teleskop.(n)
+Teleskop musí být pod neustálým dohledem, k čemuž každý teleskop potřebuje vyhrazenou konzoli a inženýra.(n)
+    </string>
+
+	<string name="help_drinks_machine">
+Komponenta baru, která vyrábí alkoholické náboje ze zeleniny.(n)
+    </string>
+
+	<string name="help_spares_workshop">
+Komponenta továrny, kde inženýři vyrábějí náhradní díly.(n)
+    </string>
+
+	<string name="help_semiconductor_foundry">
+Komponenta továrny, kde inženýři vyrábějí polovodiče.(n)
+    </string>
+
+	<string name="help_arms_workshop">
+Komponenta továrny, kde inženýři vyrábějí zbraně.(n)
+    </string>
+
+	<string name="help_bot_workshop">
+Komponenta výrobny a opravny robotů, kde se vyrábí roboti.(n)
+    </string>
+
+	<string name="help_bot_auto_repair">
+Komponenta výrobny a opravny robotů, kde se mohou roboti sami opravit.(n)
+    </string>
+
+    <string name="help_specializations">
+Každý z kolonistů má specifické zaměření, které mu umožňuje plnit konkrétní úkoly.(n)
+Je velice důležité udržovat správné počty kolonistů se správnými zaměřeními, aby byl zajištěn správný chod základny.(n)
+Můžeš přímo ovládat která specializace je vyžadována na panelu přistávacíh oprávnění.(n)
+    </string>
+
+    <string name="help_worker">
+Dělníci jsou určeni pro základní a fyzické úkony v základně:(n)
+- Těží zdroje (ne tak efektivně jako těžební roboti)
+- Ovládají komponenty na výrobní plošině.
+- Ovládají rádiovou konzoli.
+- Pokud je potřeba, mohou přenášet různé zdroje kolem (ale ne tak efektivně jako přepravní roboti).
+    </string>
+
+   	<string name="help_engineer">
+Inženýři jsou určeni pro více technicky zaměřené úkoly v kolonii:(n)
+- Stavba a oprava budov.
+- Oprava robotů.
+- Ovládají komponenty v továrně a výrobně a opravně robotů.
+- Ovládají teleskop.
+- Pokud je potřeba mohou přenášet různé zdroje kolem (ale ne tak efektivně jako přepravní roboti).
+    </string>
+
+	<string name="help_biologist">
+Biologové jsou lidé, kteří zajišťují produkci potraviny v základněa mohou:(n)
+- Udržují hydroponické podložky v Bio-Dómu.
+- Udržují syntetizátor tkání v laboratoři.
+- Pokud je potřeba mohou přenášet různé zdroje kolem (ale ne tak efektivně jako přepravní roboti).
+    </string>
+
+	<string name="help_medic">
+Lékaři jsou zodpovědní za udržení pevného zdraví na základně a mohou:(n)
+- Léčit ostatní kolonisty na ošetřovně.
+- Vyrábět lékařské zásoby za použití pracovních stolů v laboratoři.
+- Pokud je potřeba mohou přenášet různé zdroje kolem (ale ne tak efektivně jako přepravní roboti).
+    </string>
+
+    <string name="help_guard">
+Strážci jsou zodpovědní za údržení bezpečnosti v kolonii a mohou:(n)
+- Bojovat s narušiteli, ideálně ozbrojení, kdy tak mohou činit efektivněji.
+- Ovládat bezpečnostní konzoli, která detekuje narušitele dříve než napáchají závažné škody.(n)
+
+Strážci přicházejí na základnu neozbrojení. Nechat je bojovat s ozbrojenými narušiteli neozbrojené je hotová sebevražda, takže je dobrý nápad nechat je ozbrojit.
+Toho se dá docílit výrobou zbraní nebo jejich nákupem u obchodníků. Jakmile jsou zbraně dostupné, strážci si je vyzvednou a stanou se ozbrojenými.
+    </string>
+
+	<string name="help_visitor">
+Návštěvníci jsou lidé, kteří trvale nežijí na záklaně. Když přijdou na základnu, tak využívají jejích služeb a platí za ně mincemi.(n)
+Mohou dorazit pouze přes hvězdný přístav a pouze v případě, že má kolonie dostatečnou prestiž.(n)
+    </string>
+
+	<string name="help_intruder">
+Narušitelé jsou kriminální živly, které se snaží převzít vaši základnu. Mohou přicestovat v kolonistických nebo návštěvnických lodích, jakmile kolonie dosáhne určité úrovně prestiže.(n)
+Je potřeba strážců, ideálně ozbrojených, aby jejich snahy zmařili. (n)
+V případech krajní nouze můžeš na základně vyhlásit rudý poplach na kontrolním panelu (je k tomu potřeba kontrolní centrum) a všichni kolonisté se pokusí narušitele neutralizovat.(n)
+    </string>
+
+    <string name="help_resources">
+K udržení základny v běhu budeš muset spravovat různé zdroje. Ty mají rozsah od surovin jako ruda a škrob, až po finální produkty jako polovodiče nebo zbraně.(n)
+Zdroje se postupně kazí, až se na konec úplně rozpadnou, pokud nejsou vloženy do nějaké komponenty nebo uloženy ve skladu. Je tedy je velice důležité skladovat je na bezpečných místech.(n)
+Zdroje z kolonistické lodě mají delší dobu rozkladu, takže vydrží déle před úplným rozkladem, ale stále je dobrý nápad je co nejdřív uskladnit.(n)
+    </string>
+
+    <string name="help_ore">
+Ruda je získávána těřbou v dole, dělníkem nebo těžebním robotem.(n)
+Hlavním účelem rudy je její zpracování v kov ve výrobníku kovu na výrobní plošině.(n)
+    </string>
+
+    <string name="help_starch">
+Škrob je produkován z některých druhů zeleniny v Bio-Dómu.(n)
+Škrob může být zpracován v bioplast ve výrobníku bioplastu, uvnitř výrobní plošiny.(n)
+    </string>
+
+    <string name="help_bioplastic">
+Bioplast je jeden z hlavních zdrojů používaných při stavbě uzavřených budov a jejich komponent.(n)
+Bioplast je vyráběn ze škrobu ve výrobníku bioplastu na výrobní plošině.(n)
+    </string>
+
+    <string name="help_metal">
+Kov je jeden z hlavních zdrojů, který se využívá při stavbě všech struktur a komponent.(n)
+Kov se vyrábí z rudy ve výrobníku kovu na výrobní plošině.(n)
+    </string>
+
+    <string name="help_vegetables">
+Zelenina je hlavním zdrojem potravy v kolonii.(n)
+Roste na hydroponických podložkách v Bio-Dómu a může být zpracována v jídlo pomocí výrobníku jídla v jídelně.(n)
+Zelenina se vyskytuje v různých druzích, které může výrobník jídla využít k výrobě složitějších pokrmů.(n)
+    </string>
+
+    <string name="help_vitromeat">
+Syntetické maso je maso, ale je to pouze druhotný zdroj potravy.(n)
+Je produkovaný v syntetizéru tkání, který je umístěn v laboratoři.(n)
+Syntetické maso může být vyráběno ve více druzích a ve výrobníku jídla použito k výrobě složitějších pokrmů.(n)
+Syntetické maso není určeno k masové výrobě jako zelenina, ale pomůže udržet vyváženost pokrmů, což přispěje ke spestření stravy kolonistů a výrobník se hezky vyjímá v laboratoři.(n)
+    </string>
+
+    <string name="help_meal">
+Jídlo je konzumováno kolonisty, kteří si tak obnovují nutriční hodnoty.
+Je produkováno ve výrobníku jídla ze zeleniny, syntetického masa nebo obojího zároveň.
+Jsou zde různé druhy jídla:
+- Základní: Jsou produkovány z jednotlivých surovin (jeden druh zeleniny nebo masa). Obnovují sice nutriční hodnoty, ale pokud jej kolonisté konzumují ve velké míře, může dojít k podvíživě.
+- Složité: Jsou produkovány kombinací surovin a obnovují jak morálku, tak nutriční hodnoty.
+    </string>
+
+   	<string name="help_alcoholic_drink">
+Alkoholické nápoje mohou být konzumovány k obnově morálky.
+Jsou produkovány ze zeleniny v nápojovém automatu umístěném v baru.
+    </string>
+
+    <string name="help_spares">
+Náhradní díly jsou využívány při pravidelné údržbě solárních panelů a větrných turbín.(n)
+Jsou produkovány ve výrobníku náhradních dílů uvnitř továrny, z kovu a bioplastu.(n)
+Jakmile dojdou náhradní ríly, může dojít k výpadku energi, což může mít z následek přerušení produkce vzduchu.stop functioning.
+    </string>
+
+    <string name="help_semiconductors">
+Polovodiče jsou elektronické součástky užívané při výrobě robotů a dalších předmětů.(n)
+Mohou být produkovány ve slévárně polovodičů v továrně, z kovu a bioplastu.(n)
+    </string>
+
+    <string name="help_medicinal_plants">
+Léčivé rostliny mohou být využity k výrobě lékařských zásob.(n)
+Jsou pěstovány na medicínských platech v Bio-Dómu.(n)
+    </string>
+
+    <string name="help_medical_supplies">
+Lékařské zásoby jsou využívány lékaři při léčbě většiny zranění a nemocí.(n)
+Mohou být produkovány na pracovním stole v laboratoři z léčivých rostlin a bioplastu.(n)
+    </string>
+
+	<string name="help_gun">
+Zbraně jsou využívány strážci při obraně prosti narušitelům.(n)
+Jsou produkovány ve výrobníku zbraní uvnitř továrny.(n)
+Jakmile je zbrň vyprodukována, každý neozbrojený strážce si ji vyzvedne, aby se ozbrojil. Pokud jsou všichni strážci ozbrojení, mohou být zbraně uskladněny ve zbrojnici nebo ve skladu.(n)
+Obyčejný kolonista se vyzbrojí v případě vyhlášení rudého poplachu.
+    </string>
+
+    <string name="help_coins">
+Mince jsou univerzální kryptografické platidlo. Můžou být využity k nákupu zboží od kupců.(n)
+Mince je možné získat prodejem produktů obchodníkům nebo poskytnutím služeb návštěvníkům.(n)
+    </string>
+
+    <string name="help_bots">
+Roboti mohou vykonat některé jednoduché úkony mnohem efektivněji než lidé.(n)
+Mohou být koupeni u obchodníků nebo vyrobeni ve výrobně robotů.(n)
+Nepotřebují spát, jíst ani dýchat, ale čas od času potřebují údržbu, což obstará inženýr nebo v pozdějších fázích to lze automatizovat pomocí robotí autoopravny.(n)
+Roboti mají omezený životní cyklus. Po nějakém čase ztratí svou provozuschopnost a mohou být recyklováni. To je indikováno ukazatelem integrity v informačním panelu.(n)
+    </string>
+
+    <string name="help_bot_carrier">
+Přepravní robot je prostý robot, který přesouvá zdroje kolem.(n)
+
+The Carrier Bot is the simplest kind of Bot, all they do is to carry resources around.(n)
+Nicméně je vcelku důležité jich mít v kolonii stále dostatek, protože kolonisté jsou na tento druh práce příliš cenní, než aby ji vykonávali nějak dlouhodobě.
+    </string>
+
+    <string name="help_bot_constructor">
+Stavební robot může stavět a opravovat struktury. (n)
+Také mohou převážet materiál potřebný pro stavbu a opravu, ale o ostatní zdroje kolem ani nezakopnou.(n)
+Mít jich pár v základně je dobré, protože to uvolní inženýry k mnohem důležitějším ukolům.(n)
+    </string>
+
+    <string name="help_bot_driller">(n)
+Těžební robot je určen k těžbě rudy v dole.(n)
+Díky nim se sníží počet dělníků v dole, což je žádoucí poněvadž se jedná o opravdu nebezpečnou práci. (n)
+Pokud máš automatickou opravnu robotů, vrátí se opravit do základny, když to potřebuje.(n)-repair when required.(n)
+    </string>
+
+    <string name="help_base_management">
+Menu základního řízení ti umožní řídit různé oblasti základny.
+    </string>
+
+	<string name="help_colonist_status">
+Kolonisté mají několik indikátorů, které zobrazují, jak se jim daří. Měl bys monitorovat kolonisty a zjišťovat, zda je vše v přijatelných mezích.(n)
+Pokud je nějkterý z indikátorů na nízké úrovni, objeví se kolonistovi nad hlavou znamení, které upozorňuje na to, co je špatně.(n)
+    </string>
+
+    <string name="help_health">
+Je znázornění celkové míry fyzického zdraví kolonisty, pokud klesne příliš nízko, kolonista umře.(n)
+Zdraví se za normálních okolností obnovuje samo, ale je-li některý z dalších indikátorů na nízké úrovni, má to vliv na stav celkové kondice.(n)
+    </string>
+
+    <string name="help_nutrition">
+Je znázornění, jak dobře se kolonista stravuje, pokud je hodnota nízká, začne se zhoršovat celková kondice a kolonista může i případně umřít.(n)
+Kolonisté obnovují tuto hladino konzumací jídla v jídelně, kde je obvykle dostupně ve výrobníku jídla ze zeleniny nebo syntetického masa.(n)
+    </string>
+
+    <string name="help_hydration">
+Je znázornění, jak velkou žízní kolonista trpí. Když je stav příliš nízký, celková kondice se zhoršuje a kolonista může případně umřít.(n)
+Kolonisté se mohou napít z napájecí fontánky, která může být umístěna v jídelně nebo multifunkční kupoli.(n)
+    </string>
+
+    <string name="help_oxygen">
+Je znázornění, jaká je hladina vzduchu kolonisty, když klesne příliš nízko, začne se zhoršovat celková kondice a kolonista může i případně umřít.(n)
+V uzavřené budově musí být kolonista v místech s dostatkem vzduchu.(n)
+Ve venkovních prostorách kolonisté pomalu dýchají vzduch ve svých skafandrech, kdy se pokaždé v určité fázi musí vrátit a doplnit jej v základně.(n)
+    </string>
+
+	<string name="help_sleep">
+Je znázornění, jak ospalý kolonista je. Pokud je ukazatel na nízké úrovni, je kolonista neefektivní při výkonu své práce a na konec může přestat pracovat úplně, když hladina klesne pod únosnou mez.(n)
+Kolonisté mohou spát na palandě v noclehárně. Zkusí se zde vyspat pokaždé, když nastane noc, ale pokud nemohou, protože mají práci nebo není místo, zkusí to později kdykoliv. (n)
+Jinou možností je spánek v řádné posteli v kabině. Každý z kolonistů pokaždé použije stejnou postel, takže ji žádný jiný kolonista nemůže použít. Kolonista se zde rychleji vyspí a je mu obnovována i morálka.
+    </string>
+
+    <string name="help_morale">
+Je znázornění psychické kondice kolonisty. Pokud klesne nízko, kolonista přestane být efektivní ve výkonu přidělené práce a může i přestat pracovat úplně, klesne-li hodnota pod únosnou mez.(n)
+Práce a nošení věcí, morálku snižuje.(n)
+Ostatní události jako pohromy nebo umírající lidé kolem, se také podepisují na morálce.(n)
+Větší populace mají také neblahý dopad na morálku.(n)
+Morálka může být obnovována ve více směrech:(n)
+- Používání některých z relaxačních nástrojů, jako televize, lavice, běžeckého pásu, hrazdy, dekorativních rostlin a stromů. Kolonista může využívat pouze jeden typ jendou za čas, takže je potřeba, aby bylo více kombinací, více druhů.(n)
+- Pitím alkoholických nápojů na baru, kdy zde není žádný limit kolikrát to kolonista může udělat, ale spotřebovává to základní zdroje základny.(n)
+- Jezením složitějších jídel, jako těstoviny, saláty nebo hamburgery.(n)
+- Spaním na posteli v kabině.(n)
+    </string>
+
+    <string name="help_stats">
+Panel, který zobrazuje informace o celkovém stavu kolonie, obsahuje několik indikátorů:(n)
+- Prosperita: toto je měřítko toho, jak dobře kolonie funguje. Čím vyšší je hodnota, tím více příchází nových kolonistů a návštěvníků.(n)
+- Prestiž: toto je měřítko popularity kolonie. Je kalkulována na základě populace, zdrojů, prestiže budov a dalších faktorů.(n)Čím vyšší je tato hodnota, v tím čaštější frekvenci přistávají kolonistické a návštěvnické lodi, ale je potřeba mít se na pozoru, protože to může přilákat i narušitele pokoušející se obsadit základnu.(n)
+- Lidé: ukazuje kolik je lidí a jaké mají specializace.(n)
+- Roboti: ukazuje kolik je robotů a jakých jsou typů.(n)
+- Zdroje: Celkový počet zdrojů každého typu.(n)
+    </string>
+
+	<string name="help_charts">
+Panel ukazující detilní statistiky vývoje jednotlivých indikátorů v kolonii.(n)
+Můžeš aktivovat nebo vypnout jakoukoliv ze statistik kliknutím na příslušné tlačítko.(n)
+Ctrl+clik může přepínat jednotlivé statistiky, bílá deaktivuje ostatní.(n)
+	</string>
+
+    <string name="help_grids_panel">
+Panel zobrazující stav energie a vody v síti, stejně tak přehled o vzduchu. (n)
+Odsud je také možné odříznout všechny nedůležité budovy od energie jediným kliknutí, což je užitečné ve chvíli kdy se kolonie dostane do potíží s energií.(n)out of power.(n)
+    </string>
+
+    <string name="help_landing_permissions">
+Panel přistávacích oprávnění umožňuje kontrolu nad tím, jaké lodě budou moci přistávat na základně.
+
+- Kolonisté: Povoluje přistávání lodí s kolonisty, kteří by se stali součástí kolonie.
+- Obchodník: Povoluje obchodní lodě.
+- Návštěvník: Povoluje přistání lodím s návštěvníky. Ti využívají služeb základny a platí za ně mincemi.
+
+- Specializace: Určuje jaký typ specializace nového kolonisty je preferován v základně. Můžeš vybrat různé procentuální nastavení pro každou specializaci a příchozí kolonisté se pokusí specializací trefit do procentuální shody.
+	</string>
+
+	<string name="help_manufacture_limits">
+Panel výrobních limitů umožňuje specifikovat maximum jednotek pro výrobu jednotlivých druhů výrobků. Jakmile je limit dosažen, další toho typu nebudou vyráběny.(n)
+Většina z výrobků spotřebovává bioplast a kov, je tedy občas vhodné limitovat vírobu, aby nedocházelo ke zbytečnému plítvání drahocených zdrojů.(n)
+	</string>
+
+	<string name="help_security_controls">
+Bezpečnostní panel ti umožňuje kontrolovat stavy výstrah pro kolonii. Jsou zde 3 hlavní nastavení:
+
+- Žádná pohotovost: Všichni kolonisté plní svoje normální povinosti.
+
+- Žlutá pohotovost: Všichni kolonisté zůstavají uvnitř základny a zdravotníci a strážci mají rozšířené povinnosti.
+Můžeš tuto výstrahu použít během probíhajících slunečních erupcí nebo písečných bouří, aby kolonisté nepřišli k úrazu.
+Můžeš tuto výstrahu použít k aktivování všech stážců během útoku narušitelů, aby se s nimi pokusili vypořádat.
+
+- Rudá pohotovost: Podobná jako žlutá s tím rozdílem, že se všichni kolonisté zapojí do bojů proti narušitelům, s tím, že se všichni pokusí vyzbrojit, jak jen to je možné, ale bojují i beze zbraní.
+Můžeš toto aktivovat, když nemáš žádné strážce kteří by čelili útoku a nebo by všichni strážci byli přemoženi narušiteli.ruders.
+	</string>
+
+	<string name="help_oxygen_flow">
+Řízení toku vzduchu je pro správné fungování základny důležité.(n)
+Vzduch je generovaný v generátorech vzduchu a ten jej fouká do dalších budov v okolí dokud v každé nedosáhne minimální hladiny 22%.(n)
+Kolonisté mohou dýchat vzduch v budově kde se aktuálně nacházejí a do té je vzduch doplňován z okolních budov.
+Což znamená, že nejvzdálenější budovy od generátoru kyslíku mohou vykazovat nižší hladinu vzduchu, i když jej generátor produkuje v dostatečném množství.(n)
+Může se tedy velmi vyplatit stavět generátory vzduchu poblíž budov, které jsou obvykle přeplněné, jako noclehárny nebo Bio-Dómy, kde by hrozilo že klesne hladina vzduchu pod únosnou mez a kolonisté je přestanou využívat.(n)
+	</string>
+
+	<string name="help_recycling">
+Recyklováním budov a komponent můžeš získat zpět některé ze surovin, které jsi utratil při stavbě.(n)
+Pokud se tedy nebude dostávat některé ze surovin, je toto možnost, jak v krajním případě získat co je potřeba.(n)
+
+- většina surovin se vrátí zpět při recyklaci budov.
+- všechny zdroje se vrátí recyklací komponent.
+- nějaké zdroje navíc je možné získat recyklací lodě kolonistů.
+	</string>
+
+	<string name="help_colony_ship">
+Loď kolonistů obsahuje základní zdroje, které ti umožní nastartovat výstavbu kolonie. Je velmi důležité utrácet zdroje opatrně a pokusit se co možná nejvíce šetřit.(n)
+Je ji možné recyklovat a získat tak navíc nějako cenné zdroje. zároveň to uvolní místo pro stavbu dalších budov.
+	</string>
+
+	<string name="help_meteor">
+Meteory dopadají pravidelně na povrch planety, kdyse tak děje nejvíce na těch, které nemají atmosféru.(n)
+Pokud zasáhne některou z tvých budov, tak ji poškodí a nejspíš při tom i někoho zabije, pokud se zde bude nacházet.(n)
+Poškozené budovy mohou být automaticky opraveny inženýry nebo stavebními roboty, za předpokladu, že jsou dostupné.(n)
+Je tedy vhodné mít různé cesty ze základny, aby se v případě odříznutí jednoho východu dalo místo obejít z jiné strany.(n)
+Můžeš postavit laser proti meteoritům spolupracující s teleskopy, které detekují hrozbu meteoru a zaměřují je pro zničení než dopadnou na základnu.
+	</string>
+
+	<string name="help_sandstorm">
+Písečné bouře mohou čas od času udeřit na některých planetách.(n)
+Jakmile písečná bouře probíhá, solární panely jsou většinou vyřazeny z provozu, ale větrné turbíny fungují na maximální výkon.(n)
+Jakýkoliv kolonista, který bude mimo základnu se pohybuje pomaleji a jeho zdraví bude po tu dobu klesat.(n)
+Pokud budeš mít postavné kontrolní centrum, můžeš nastavit žlutou pohotovost na bezpezpočnostním panelu a zastavit tak všechny kolonisty v základně než bouře pomine.(n)
+Pokud postavíš a obsloužíš několik teleskopů, můžeš být před nadcházející písečnou bouří varován, než udeří.(n)
+	</string>
+
+	<string name="help_solar_flare">
+Sluneční erupce jsou výrony energie z blízké hvězdy.(n)
+Jakýkoliv kolonista který je během tohoto jevu zastižen mimo základnu, bude zasažen radiací a pokud nebude léčen na ošetřovně, může umřít.(n)
+Pokud budeš mít postavné kontrolní centrum, můžeš nastavit žlutou pohotovost na bezpezpočnostním panelu a zastavit tak všechny kolonisty v základně než jev pomine.(n)
+Pokud postavíš a obsloužíš několik teleskopů, můžeš být před nadcházející erupcí varován, než udeří.
+	</string>
+
+  <string name="help_blizzard">
+Sněhová bouře mohou čas od času udeřit na některých planetách.(n)
+Jakmile sněhová bouře probíhá, solární panely jsou většinou vyřazeny z provozu, ale větrné turbíny fungují na maximální výkon.(n)
+Jakýkoliv kolonista, který bude mimo základnu, se pohybuje pomaleji a jeho zdraví bude po tu dobu klesat.(n)
+Pokud budeš mít postavné kontrolní centrum, můžeš nastavit žlutou pohotovost na bezpezpočnostním panelu a zastavit tak všechny kolonisty v základně než jev pomine.(n)
+Pokud postavíš a obsloužíš několik teleskopů, můžeš být před nadcházející bouří varován, než udeří.(n)
+	</string>
+
+  <string name="help_thunderstorm">
+Některé planety jsou zachváceny neustálými bouřemi.(n)
+Údery blesků mohou poškodit základnu a zabít kolonisty.(n)
+Můžeš využít hromosvodů k ochraně základny a k získání energie kterou blesky uvolní.(n)
+  </string>
+
+	<string name="help_condition">
+Kolonisté mohou být ovliněni různými stavy. Některé jsou smrtelné, některé ne, některé vyžadují lékařskou péči, některé jsou jen drobnou příhodou.
+	</string>
+
+	<string name="help_trauma_injuries">
+Stav který se může přivodit během těžby nebo při jiném druhu nehody.
+Není smrtelný, ale postižený kolonista není schopen vykonávat svou práci. Může být léčen lékařem v ošetřovně za použití lékařských zásob.(n)
+Není vůbec od věci nahradit dělníky těžebními roboty v dolech a zabránit tak podobným nehodám.(n)
+	</string>
+
+	<string name="help_radiation">
+Těžký stav obvykle přivoděný vystavením sluneční erupci nebo při průmyslové havárii.
+je potřeba, aby to bylo co nejdříve léčeno lékařem na ošetřovně pomocí lékařských zásob, jinak dojde nevyhnutelně k smrti.(n)
+	</string>
+
+	<string name="help_malnutrition">
+Stav který si kolonista přivodí v případě, že nemá dostatečně pestrou stravu.
+Není smrtelný, ale postižení kolonisté nebudou schopni vykonávat svoji práci. Může být léčen lékařem na ošetřovně za použití lékařských zásob.(n)
+	</string>
+
+	<string name="help_combat_wounds">
+Těžké zranění, které je způsobené zásahem ze střelné zbraně.(n)
+Je jej potřeba co nejrychleji léčit lékařem na ošetřovně pomocí lékařských zásob, jinak dojde nevyhnutelně k smrti.(n)
+	</string>
+
+	<string name="help_flu">
+Stav který se zavleče s příchodem nových kolonistů nebo s návštěvníky.(n)
+Většinou není vážný, ale je nakažlivý a může kolonisty vyřadit z práce.(n)
+	</string>
+
+	<string name="help_trading">
+Jakmile postavíš přistávací polochu nebo hvězdný přístac, obchodníci začnou přistávat na základně. Můžeš tak nakupovat různé zdroje, technologie a roboty, výměnou za vlastní zdroje.(n)
+Obchodní lodě přilétají ve dvou velikostech, malí nezávyslí obchodníci a velcí korporátní obchodníci.(n)
+Korporátní obchodníci přivážejí většinou více zdrojů a častěji mají na prodej technologie a roboty, ale mohou přistávat jen na hvězdném přístavu.(n)
+Někteří obchodníci jsou všestraní, mohou nést všechny druhy zboží, kdy některé prodávají a některé nakupují.(n)
+Každý z obchodníků účtuje provizi, což je částka kterou si připočte k obchodovaným produktům, ta je uvedena v obchodním panelu. V závislosti na množství zboží, které budete potřebovat se může vyplatit počkat na obchodníky s nižší provizí.(n)
+Všimni si, že můžeš obchodovat jen s prostředky, které v tu chvíli nejsou využívány.
+Jakmile jednou přistoupíš k bchodu, tak kolonisté a roboti mohou předat požadované zdroje na obchodní loď, což zabere nějaký čas a tak není úplně od věci postavit přechodovou komoru a sklad poblíž přistávací plochy a hvězdného přístavu.(n)
+	</string>
+
+	<string name="help_techs">
+Technologie ti umožní stavět určité budovy, vyrábět určité roboty a pěstovat některé rostliny.(n)
+Ty lze zakoupit od obchodníků za opravdu drahé ceny. Ony nejsou tak úplně nutné pro provoz základny, ale umožní ti vybudovat stabilnější provoz.(n)
+Panel technologií zobrazuje všechny dostupné technologie a co dělají.(n)
+	</string>
+
+	<string name="help_milestones">
+Pokaždé, když dosáhneš něčeho významného ve tvé kolonii, budeš odměněn odemknutím milníku.(n)
+Na panelu milníků si můžeš přečíst, co je potřeba ke splnění každého zvlášť.(n)
+Některé planety vyžadují splnění určitého počtu milníků, aby je bylo možné hrát.(n)
+Hra končí přirozeným dohráním, ale jednou z hlavních výzev je odemčení všech milníků.(n)
+	</string>
+
+</strings>
