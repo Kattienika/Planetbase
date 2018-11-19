@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	
+	<string name="tutorial_waiting_for_construction">Waiting for construction</string>
+	<string name="tutorial_increase_speed">Waiting for construction.(n)You can increase the game speed in the menu ((game_speed_faster_key) key).</string>
+	<string name="tutorial_well_done">Well Done</string>
+	<string name="tutorial_waiting">Waiting</string>
+	<string name="tutorial_done">Done</string>
+	<string name="tutorial_pending">Pending</string>
+	<string name="tutorial_task_build_module">Place structure: (1)</string>
+	<string name="tutorial_task_build_module_size">Place (2) size structure: (1)</string>
+	<string name="tutorial_task_build_component">Place component: (1)</string>
+	<string name="tutorial_task_pan_camera">Pan Camera (use (camera_move_keys) keys or mouse at edges of the screen)</string>
+	<string name="tutorial_task_rotate_camera">Rotate Camera (use (camera_rotate_keys) keys or drag middle mouse button)</string>
+	<string name="tutorial_task_connect_structures">Connect Structures: (1) and (2)</string>
+	<string name="tutorial_task_connect_all_structures">Connect all structures</string>
+	<string name="tutorial_task_recycle_colony_ship">Recycle Colony Ship</string>
+	<string name="tutorial_task_hide_tops">Hide structure tops (use (toggle_show_tops_key) key or menu button)</string>
+	<string name="tutorial_task_wait_for_construction">Wait for everything to be built</string>
+	
+	<string name="tutorial_welcome_title">Welcome to Planetbase</string>
+	<string name="tutorial_welcome_0">In Planetbase you control a group of human pioneers in the not so distant future trying to establish an outpost on a remote planet.</string>
+	
+	<string name="tutorial_camera_title">Camera</string>
+	<string name="tutorial_camera_0">First thing is to learn the basic camera controls.(n)(n)To pan the camera, use the (camera_move_keys) keys or place the mouse at the edges of the screen.(n)(n)To rotate the camera, use the (camera_rotate_keys) keys or drag the middle mouse button.</string>
+	<string name="tutorial_camera_post">You can check out the full camera controls in the help menu.</string>
+	
+	<string name="tutorial_structures_title">Structures</string>
+	<string name="tutorial_structures_0">The top priority after landing is to build some basic structures to keep your people alive.(n)(n)You can build structures using the main menu, situated on the top left of the screen.</string>
+	<string name="tutorial_structures_1">Most structures require Metal and Bioplastic to be built. You have a limited supply of these in the Colony Ship, you should be extremely careful when spending it.</string>
+	<string name="tutorial_structures_2">First thing to do is to build an Oxygen Generator so your colonists can breathe when the oxygen in their space suits runs out.</string>
+	
+	<string name="tutorial_power_title">Power</string>
+	<string name="tutorial_power_0">The Oxygen Generator requires power to operate. Power can be generated with a Solar Panel.</string>
+	
+	<string name="tutorial_connections_title">Connections</string>
+	<string name="tutorial_connections_0">Now that the Solar Panel is placed you need to connect it to the Oxygen Generator.</string>
+	<string name="tutorial_connections_1">Connecting structures allows them to share power and water, and in the case of interior structures allows colonists to walk between them.</string>
+	<string name="tutorial_connections_2">To connect two structures you will need to: click on one of them, then click on the other, if a connection is possible, a connection button will appear.</string>
+	<string name="tutorial_connections_post">Note that you will only be able to place new structures in such way that they can be connected to existing ones. Potential connections are indicated by a green line.</string>
+	
+	<string name="tutorial_water_title">Water</string>
+	<string name="tutorial_water_0">The Oxygen Generator also needs a water supply to function, so you will need to build a Water Extractor.</string>
+	<string name="tutorial_water_1">Water and power generation structures don't need to be directly connected to the destination structure, they just need to be part of the same connection grid.</string>
+	
+	<string name="tutorial_airlock_title">The Airlock</string>
+	<string name="tutorial_airlock_0">Now you should build an Airlock so your colonists can get inside the base.</string>
+	<string name="tutorial_airlock_post">The Airlock is slow to use, later on you might want to build more than one to avoid congestion.</string>
+	
+	<string name="tutorial_canteen_title">Eat and drink</string>
+	<string name="tutorial_canteen_0">Your Colony Ship contains some food supplies, and you can get water from the Water Extractor. You can now build a Canteen so your colonists can eat and drink.</string>
+	<string name="tutorial_canteen_post">Note that interior structures always need to be connected to at least one other interior structure, so colonists can move between them.</string>
+	
+	<string name="tutorial_components_title">Components</string>
+	<string name="tutorial_components_0">Some structures can have components placed in them, these provide additional functionality.</string>
+	<string name="tutorial_components_1">You should now build some components in the Canteen: A Table for people to eat, a Drinking Fountain to get water, and a Video Screen for some basic entertainment.</string>
+	<string name="tutorial_components_2">To build components, click on the structure to select it, then click on the edit button.</string>
+	<string name="tutorial_components_post">You colonists will now use the Canteen components when they need to eat or drink.</string>
+	
+	<string name="tutorial_tops_title">Tops</string>
+	<string name="tutorial_tops_0">Sometimes you might want to have a closer look at what's going on inside your base. You can use the Show Tops menu button ((toggle_show_tops_key) key) to hide/show the roofs of the buildings</string>
+	<string name="tutorial_tops_post">When the tops are disabled, you can select components or colonists inside the base and see their status.</string>
+	
+	<string name="tutorial_dead_ends_title">Dead Ends</string>
+	<string name="tutorial_dead_ends_0">The next structure to build is the Dorm so your colonists can sleep.</string>
+	<string name="tutorial_dead_ends_1">Some structures like the Dorm are dead ends: they can only be connected to one other structure. You should probably take this into account when designing your base.</string>
+		
+	<string name="tutorial_power_storage_title">Power Storage</string>
+	<string name="tutorial_power_storage_0">Structures require varying amounts of power to function.(n)At any given time, if the base requires more power than produced by the generators, structures will shut down, which could easily have fatal consequences.</string>
+	<string name="tutorial_power_storage_1">Solar Panels only work during the day, so if you intend to survive the night, you will need to build some Wind Turbines, that can produce power all day, and Power Collectors, that can store power for later use.</string>
+	<string name="tutorial_power_storage_2">Most structures can be built in different sizes, larger structures require more resources, but provide additional space and functionality.</string>
+	<string name="tutorial_power_storage_4">You can use the Mouse Wheel (or (camera_zoom_keys) keys) to select the structure size when placing them.</string>
+	<string name="tutorial_power_storage_post">Power management is a critical part of running your base, you will typically need a combination of several Solar Panels, Wind Turbines and Power Collectors to ensure there is a constant flow of electricity.</string>
+	
+	<string name="tutorial_food_title">Food</string>
+	<string name="tutorial_food_0">One of the main challenges you will face will be to maintain a constant supply of food for your colonists.</string>
+	<string name="tutorial_food_1">Food is usually grown in Vegetable Pads in the Bio-Dome and then processed in the Meal Maker in the canteen.</string>
+	<string name="tutorial_food_post">Note that Vegetable Pads need to be maintained by Biologists, if not they will decay and eventually stop producing.</string>
+	
+	<string name="tutorial_recycle_title">Recycle</string>
+	<string name="tutorial_recycle_0">Most structures, including the Colony Ship can be recycled to get back resources from them</string>
+	<string name="tutorial_recycle_post">Note that you will only be able to recycle structures if this doesn't isolate any of the existing ones.</string>
+	
+	<string name="tutorial_mine_title">Mine</string>
+	<string name="tutorial_mine_0">In order to survive in the medium term, you will need to produce more resources so you can build more advanced structures.</string>
+	<string name="tutorial_mine_1">You can build a Mine to extract Ore from it.(n)Mines have to be built at the base of a mountain, and they need another structure nearby, to be connected to.</string>
+	
+	<string name="tutorial_processing_plant_title">Processing Plant</string>
+	<string name="tutorial_processing_plant_0">The Processing Plant is the structure where raw materials are processed into refined resources.</string>
+	<string name="tutorial_processing_plant_1">The Metal Processor component can generate Metal from Ore.</string>
+	<string name="tutorial_processing_plant_post">Now your Workers will start going to the Mine to extract Ore.(n)They will then take the Ore to the Metal Processor and convert it into Metal.(n)Later on you will be able to use Bots to perform some of these tasks.</string>
+	
+	<string name="tutorial_bioplastic_title">Bioplastic</string>
+	<string name="tutorial_bioplastic_0">The other construction resource is Bioplastic. Bioplastic is produced from Starch in the Bioplastic Processor.</string>
+	<string name="tutorial_bioplastic_1">Starch is produced from some vegetables in the Bio-Dome, like rice or wheat.(n)Not all vegetables are starchy, and the ones that are, produce less food.</string>
+	<string name="tutorial_bioplastic_post">Colonists and Carrier Bots will take the right resources to the required components so that they can produce.(n)You can control production by disabling components, or by lowering the priority or a particular structure.</string>
+	
+	<string name="tutorial_spares_title">Spares</string>
+	<string name="tutorial_spares_0">Solar Panels and Wind Turbines need to be maintained periodically with Spares. If you fail to do this, they will stop functioning.(n)(n)Spares are produced in the Spares Workshop component in the Factory structure.</string>
+	<string name="tutorial_spares_1">This tutorial has so far been forcing you to place structures at predetermined locations, but from now on you will be free to place them wherever you wish.</string>
+	<string name="tutorial_spares_post">Note that Factory components are operated by Engineers, not Workers.</string>
+	
+	<string name="tutorial_health_title">Health</string>
+	<string name="tutorial_health_0">Every base has to have some basic Sick Bay so you can provide treatment for injured miners and sick colonists.</string>
+	<string name="tutorial_health_1">Medics can heal people in the Sick Bay using Medical Supplies.</string>
+	<string name="tutorial_health_post">Make sure to keep your colonists's health levels monitored at all times. Injured colonists will not work, but will still consume resources from the colony.</string>
+	
+	<string name="tutorial_medical_supplies_title">Medical Supplies</string>
+	<string name="tutorial_medical_supplies_0">You only have a limited amount of Medical Supplies in your Colony Ship, so you will need to produce more at some point.</string>
+	<string name="tutorial_medical_supplies_1">A Medic can create Medical Supplies from Bioplastic and Medicinal Plants (grown in the Bio-Dome) in a Workbench (in the Lab)</string>
+	<string name="tutorial_medical_post">Always ensure you have functioning Sick Bay and good stock of Medical Supplies, you never know when the next medical emergency will be.</string>
+	
+	<string name="tutorial_arrivals_title">New Arrivals</string>
+	<string name="tutorial_arrivals_0">Once you have enough resources to keep everyone alive you can build a Landing Pad to allow more colonists in.</string>
+	<string name="tutorial_arrivals_post">Note that new Colonists will only arrive if the base is well run.</string>
+	
+	<string name="tutorial_final_title">On your own</string>
+	<string name="tutorial_final_0">You now know the basics, and can start building your own colony. Good luck!</string>
+	
+	
+</strings>

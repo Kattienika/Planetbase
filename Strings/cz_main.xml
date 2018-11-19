@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+    
+    <!-- Title -->
+    <string name="game_title">Planetbase</string>
+    
+   	<!-- Language -->
+	<string name="language">Language</string>
+    <string name="language_name">English</string>
+    
+    <!-- Plural endings, separated by spaces, this is used for text highlighting in help menus -->
+	<string name="plural_endings">s</string>
+    
+    <!-- Misc -->
+    <string name="home">Home</string>
+    <string name="owned_by">Owned by</string>
+    <string name="owns">Owns</string>
+    <string name="bot">Bot</string>
+    <string name="previous">Previous</string>
+    <string name="help">Help</string>
+    <string name="edit">Edit</string>
+    <string name="build_exterior">Build exterior structure (doesn't contain oxygen and colonists need to wear a space suit to access them)</string>
+    <string name="build_interior">Build interior structure (contains oxygen and can be accessed without a space suit)</string>
+    <string name="stats">Stats</string>
+   	<string name="charts">Charts</string>
+   	<string name="charts_day_initial">d</string>
+   	<string name="welfare">Welfare</string>
+    <string name="overall_status">Status</string>
+    <string name="prestige">Prestige</string>
+    <string name="new_game">New Game</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="switch_planet">Switch background planet</string>
+    <string name="steam_workshop">Steam Workshop</string>
+    <string name="play_tutorial_suggestion">You don't seem to have played the tutorial yet, unless you already know how to play the game, we highly recommend that you do.(n)Do you want to play the tutorial now?</string>
+    <string name="continue_game">Continue</string>
+    <string name="load_game">Load</string>
+    <string name="quit">Quit</string>
+    <string name="build">Build</string>
+    <string name="build_specific">Build (1)</string>
+    <string name="action">Action</string>
+    <string name="add_component">Add Component</string>
+    <string name="colonist">Colonist</string>
+    <string name="visitor">Visitor</string>
+    <string name="interior">Interior</string>
+    <string name="exterior">Exterior</string>
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="confirm_exit">Are you sure you want to exit?</string>
+    <string name="confirm_recycle">Are you sure you want to recycle this structure? You will get:</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="pending_resources">Pending resources</string>
+   	<string name="saving_game">Saving game</string>
+	<string name="quicksave">Quick Save</string>
+	<string name="game_menu">Game Menu</string>
+	<string name="save_game">Save Game</string>
+	<string name="exit_game">Exit Game</string>
+	<string name="return_to_game">Return to Game</string>
+    <string name="loading">Loading...</string>
+    <string name="press_any_key">Press any key</string>
+    <string name="grid">Grid</string>
+    <string name="grids">Grids</string>
+    <string name="grids_panel">Grids Panel</string>
+    <string name="manufacture_limits">Manufacturing Limits</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+   	<string name="transmission">Transmission</string>
+    <string name="signpost_subtitle">WELCOME TO</string>
+    <string name="module_limit_reached">You've reached the limit of structures</string>
+   	<string name="screenshot_taken">Screenshot taken</string>
+      
+    <!-- Misc Controls -->
+    <string name="keycode_delete">Delete</string>
+   	<string name="keycode_backspace">Backspace</string>
+    <string name="keycode_up_arrow">↑</string>
+    <string name="keycode_down_arrow">↓</string>
+    <string name="keycode_left_arrow">←</string>
+    <string name="keycode_right_arrow">→</string>
+    <string name="keypad">Keypad</string>
+    <string name="joystick_axis_positive">Joystick Axis (1) Pos</string>
+   	<string name="joystick_axis_negative">Joystick Axis (1) Neg</string>   	   	
+    <string name="joystick_button">Joystick Button (1)</string>   	   	   	
+    <string name="action_type">Action</string>
+    <string name="binding_main">Main</string>
+    <string name="binding_alternative">Alternative</string>
+   	<string name="input_action_title">Action Input</string>
+   	<string name="input_action_text">Press key, button or move axis to assign action.(n)Press Escape key to clear.</string>
+   	<string name="action_defaults_text">Are you sure you want to reset all actions to their default values?</string>
+    
+    
+    <!-- Action Types -->
+    <string name="action_type_camera_move_forward">Move Camera Forward</string>
+    <string name="action_type_camera_move_back">Move Camera Back</string>
+    <string name="action_type_camera_move_left">Move Camera Left</string>
+    <string name="action_type_camera_move_right">Move Camera Right</string>
+    <string name="action_type_camera_rotate_left">Rotate Camera Left</string>
+    <string name="action_type_camera_rotate_right">Rotate Camera Right</string>
+   	<string name="action_type_camera_zoom_in">Zoom In Camera</string>
+    <string name="action_type_camera_zoom_out">Zoom Out Camera</string>
+    <string name="action_type_toggle_show_tops">Toggle Show Tops</string>
+    <string name="action_type_toggle_main_panel">Toggle Main Panel</string>
+    <string name="action_type_recycle">Recycle</string>
+    <string name="action_type_game_speed_faster">Game Speed Faster</string>
+    <string name="action_type_game_speed_slower">Game Speed Slower</string>
+    <string name="action_type_menu_build_interior">Build Interior Menu</string>
+    <string name="action_type_menu_build_exterior">Build Exterior Menu</string>
+	<string name="action_type_panel_help">Help Panel</string>
+	<string name="action_type_panel_stats">Stats Panel</string>
+	<string name="action_type_panel_charts">Charts Panel</string>
+    <string name="action_type_panel_grids">Grids Panel</string>
+    <string name="action_type_panel_landing_permissions">Landing Permissions Panel</string>
+    <string name="action_type_panel_security_controls">Security Controls Panel</string>
+    <string name="action_type_panel_manufacturing_limits">Manufacturing Limits Panel</string>
+    <string name="action_type_panel_techs">Techs Panel</string>
+    <string name="action_type_panel_milestones">Milestones Panel</string>
+    <string name="action_type_no_alert">No Alert</string>
+	<string name="action_type_yellow_alert">Yellow Alert</string>
+	<string name="action_type_red_alert">Red Alert</string>
+
+    <!-- Hints -->
+    <string name="hint_placement_size">Use mouse wheel (or (camera_zoom_keys) keys) to change size.</string>
+   	<string name="hint_placement_interior">Place near an existing interior structure.</string>
+   	<string name="hint_placement_exterior">Place near an existing structure.</string>
+   	<string name="hint_placement_mine">Place at the base of a mountain.</string>
+    <string name="hint_placement_invalid">Invalid location</string>
+    <string name="hint_component_placement">Click to place.(n)Shift+click to place multiple.</string>
+    <string name="hint_component_placement_tutorial">Click to place.</string>
+    
+    <!-- Location select screen -->
+    <string name="select_planet">Select Planet</string>
+    <string name="select_location">Select Location</string>
+    <string name="start_game">Start Game</string>
+    <string name="back">Back</string>
+    <string name="location">Location</string>
+    <string name="degrees">°</string>
+    <string name="infinity">INF</string>
+    <string name="north">N</string>
+    <string name="south">S</string>
+    <string name="east">E</string>
+    <string name="west">W</string>
+	<string name="need_milestones">(1) Milestones to unlock</string>
+        
+        
+    <!-- State -->
+    <string name="ko">KO</string>
+    <string name="idle">Idle</string>
+    <string name="walking">Walking</string>
+    <string name="building">Building</string>
+    <string name="going">Going</string>
+    <string name="carrying">Carrying</string>
+    <string name="interacting">Interacting</string>
+    <string name="sleeping">Sleeping</string>
+   	<string name="using">Using (1)</string>
+    <string name="looking_at">Looking at (1)</string>
+    <string name="dead">Dead</string>
+    <string name="at">at</string>
+    <string name="to">to</string>
+   	<string name="for">for</string>
+   	<string name="to_get">to get</string>
+   	
+    <!-- Menus -->
+    <string name="menu_speed">Adjust Speed</string>
+    <string name="menu_faster">Increase game speed</string>
+    <string name="menu_slower">Decrease game speed</string>
+   	<string name="menu_base_management">Base Management</string>
+   
+    <!-- Toasts -->
+    <string name="speed_set">Game speed set to</string>
+    
+    <!-- Stats -->
+    <string name="humans">Humans</string>
+    <string name="colonists">Colonists</string>
+    <string name="visitors">Visitors</string>
+    <string name="bots">Bots</string>
+    <string name="resources">Resources</string>
+    <string name="power_balance">Power Balance</string>
+    <string name="water_balance">Water Balance</string>
+    <string name="oxygen_balance">Oxygen Balance</string>
+    
+    <!-- Indicators -->
+    <string name="overloaded">Overloaded</string>
+    <string name="water_grid">Water Grid</string>
+    <string name="power_grid_tooltip">Power grid consumes (1) and produces (2)</string>
+    <string name="water_grid_tooltip">Water grid consumes (1) and produces (2)</string>
+    <string name="oxygen_balance_tooltip">There are currently (1) people in the base, and generators are producing oxygen for approximately (2)</string>
+    <string name="wind">Wind Strength</string>
+    <string name="cloud_cover">Cloud Cover</string>
+    <string name="time_tooltip">Days: (1), Hour: (2)</string>
+    <string name="power_storage">Power Storage</string>
+    <string name="food">Food</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="hydration">Hydration</string>
+    <string name="water">Water</string>
+    <string name="water_storage">Water Storage</string>
+    <string name="radio_interception_chance">Transmission Interception Chance</string>
+    <string name="disaster_interception_chance">Disaster Prediction Chance</string>
+    <string name="laser_chance">Interception Chance</string>
+    <string name="sleep">Sleep</string>
+    <string name="oxygen">Oxygen</string>
+    <string name="power">Power</string>
+    <string name="condition">Condition</string>
+    <string name="integrity">Integrity</string>
+    <string name="health">Health</string>
+    <string name="morale">Morale</string>
+    <string name="build_progress">Build Progress</string>
+    <string name="production_progress">Producing</string>
+    <string name="produces">Produces</string>
+   	<string name="contains">Contains</string>
+   	<string name="consumes">Consumes</string>
+    <string name="excellent">Excellent</string>
+	<string name="good">Good</string>
+	<string name="decent">Decent</string>
+	<string name="poor">Poor</string>
+	<string name="very_poor">Very Poor</string>
+    <string name="laser_charge">Laser Charge</string>
+    
+   	<!-- Specialization -->
+    <string name="specialization_medic">Medic</string>
+    <string name="specialization_medic_female">Medic</string>
+    <string name="specialization_medic_plural">Medics</string>
+    <string name="specialization_engineer">Engineer</string>
+    <string name="specialization_engineer_female">Engineer</string>
+    <string name="specialization_engineer_plural">Engineers</string>
+    <string name="specialization_worker">Worker</string>
+   	<string name="specialization_worker_female">Worker</string>
+    <string name="specialization_worker_plural">Workers</string>
+    <string name="specialization_biologist">Biologist</string>
+	<string name="specialization_biologist_female">Biologist</string>
+	<string name="specialization_biologist_plural">Biologists</string>
+	<string name="specialization_guard">Guard</string>
+    <string name="specialization_guard_female">Guard</string>
+    <string name="specialization_guard_plural">Guards</string>
+    <string name="specialization_visitor">Visitor</string>
+    <string name="specialization_visitor_female">Visitor</string>
+    <string name="specialization_visitor_plural">Visitors</string>
+    <string name="specialization_intruder">Intruder</string>
+    <string name="specialization_intruder_female">Intruder</string>
+    <string name="specialization_intruder_plural">Intruders</string>
+    <string name="specialization_bot_carrier">Carrier Bot</string>
+    <string name="specialization_bot_carrier_plural">Carrier Bots</string>
+    <string name="specialization_bot_driller">Driller Bot</string>
+    <string name="specialization_bot_driller_plural">Driller Bots</string>
+    <string name="specialization_bot_constructor">Constructor Bot</string>
+    <string name="specialization_bot_constructor_plural">Constructor Bots</string>
+    
+    <!-- Ships -->
+    <string name="visitor_ship">Visitor Ship</string>
+    <string name="colony_ship">Colony Ship</string>
+    <string name="colonist_ship">Colonist Ship</string>
+    <string name="merchant_ship">Trading Ship</string>
+    
+    <!-- Module Types -->
+    <string name="base_pad">Base Pad</string>
+   	<string name="lab">Lab</string>
+   	<string name="storage">Storage</string>
+   	<string name="sick_bay">Sick Bay</string>
+    <string name="multi_dome">Multi-Dome</string>
+    <string name="cabin">Cabin</string>
+    <string name="power_collector">Power Collector</string>
+    <string name="robotics_facility">Robotics Facility</string>
+    <string name="connection">Connection</string>
+    <string name="connections">Connections</string>
+    <string name="canteen">Canteen</string>
+    <string name="bar">Bar</string>
+    <string name="oxygen_generator">Oxygen Generator</string>
+    <string name="dorm">Dorm</string>
+    <string name="landing_pad">Landing Pad</string>
+    <string name="starport">Starport</string>
+    <string name="mine">Mine</string>
+    <string name="processing_plant">Processing Plant</string>
+    <string name="bio_dome">Bio-Dome</string>
+	<string name="water_tank">Water Tank</string>
+    <string name="airlock">Airlock</string>
+    <string name="water_extractor">Water Extractor</string>
+    <string name="wind_turbine">Wind Turbine</string>
+    <string name="radio_antenna">Radio Antenna</string>
+    <string name="control_center">Control Center</string>
+    <string name="telescope">Telescope</string>
+    <string name="anti_meteor_laser">Anti Meteor Laser</string>
+    <string name="lightning_rod">Lightning Rod</string>
+    <string name="signpost">Signpost</string>
+    <string name="solar_panel">Solar Panel</string>
+    <string name="factory">Factory</string>
+    <string name="pyramid">Pyramid</string>
+    <string name="monolith">Monolith</string>
+            
+    <!-- Components -->
+    <string name="component_spares_workshop">Spares Workshop</string>
+   	<string name="component_meal_maker">Meal Maker</string>
+   	<string name="component_drinks_machine">Drinks Machine</string>
+    <string name="component_table">Table</string>
+    <string name="component_table_small">Small Table</string>
+    <string name="component_bar_table">Bar Table</string>
+    <string name="component_bar_table_no_chairs">Standing Bar Table</string>
+    <string name="component_workbench">Workbench</string>
+    <string name="component_bed">Bed</string>
+    <string name="component_sick_bay_bed">Bed</string>
+    <string name="component_bunk">Bunk</string>
+    <string name="component_drinking_fountain">Drinking Fountain</string>
+    <string name="component_bench">Bench</string>
+    <string name="component_video_screen">Video Screen</string>
+    <string name="component_bioplastic_processor">Bioplastic Processor</string>
+    <string name="component_metal_processor">Metal Processor</string>
+    <string name="component_bot_auto_repair">Bot Auto Repair</string>
+    <string name="component_bot_workshop">Bot Workshop</string>
+    <string name="component_maize_pad">Maize Pad</string>
+    <string name="component_wheat_pad">Wheat Pad</string>
+    <string name="component_pea_pad">Pea Pad</string>
+    <string name="component_rice_pad">Rice Pad</string>
+    <string name="component_potato_pad">Potato Pad</string>
+    <string name="component_tomato_pad">Tomato Pad</string>
+    <string name="component_onion_pad">Onion Pad</string>
+   	<string name="component_gm_tomato_pad">GM Tomato Pad</string>
+    <string name="component_gm_onion_pad">GM Onion Pad</string>
+    <string name="component_radish_pad">Radish Pad</string>
+    <string name="component_mushroom_pad">Mushroom Pad</string>
+    <string name="component_lettuce_pad">Lettuce Pad</string>
+    <string name="component_medicinal_pad">Medicinal Pad</string>
+    <string name="component_arms_workshop">Arms Workshop</string>
+    <string name="component_semiconductor_foundry">Semiconductor Foundry</string>
+    <string name="component_pine_tree">Pine Tree</string>
+    <string name="component_oak_tree">Oak Tree</string>
+    <string name="component_tissue_synthesizer">Tissue Synthesizer</string>
+    <string name="component_security_console">Security Console</string>
+    <string name="component_radio_console">Radio Console</string>
+    <string name="component_telescope_console">Telescope Console</string>
+    <string name="component_armory">Armory</string>
+    <string name="component_medical_cabinet">Medical Cabinet</string>
+    <string name="component_treadmill">Treadmill</string>
+    <string name="component_exercise_bar">Exercise Bar</string>
+    <string name="component_decorative_plant">Decorative Plant</string>
+    
+    <!-- Resources -->
+   	<string name="resource">Resource</string>
+   	<string name="vegetables">Vegetables</string>
+   	<string name="vitromeat">Vitromeat</string>
+   	<string name="meal">Meal</string>
+   	<string name="alcoholic_drink">Alcoholic Drink</string>
+   	<string name="metal">Metal</string>
+   	<string name="ore">Ore</string>
+   	<string name="bioplastic">Bioplastic</string>
+   	<string name="starch">Starch</string>
+   	<string name="medicinal_plants">Medicinal Plants</string>
+   	<string name="medical_supplies">Medical Supplies</string>
+   	<string name="spares">Spares</string>
+   	<string name="semiconductors">Semiconductors</string>
+   	<string name="gun">Gun</string>
+   	<string name="gun_plural">Guns</string>
+   	<string name="coins">Coins</string>
+   
+   	<string name="resource_subtype_wheat">Wheat</string>
+   	<string name="resource_subtype_maize">Maize</string>
+   	<string name="resource_subtype_peas">Peas</string>
+   	<string name="resource_subtype_rice">Rice</string>
+   	<string name="resource_subtype_potatoes">Potatoes</string>
+   	
+   	<string name="resource_subtype_lettuce">Lettuce</string>
+   	<string name="resource_subtype_tomatoes">Tomatoes</string>
+   	<string name="resource_subtype_onions">Onions</string>
+   	<string name="resource_subtype_radishes">Radishes</string>
+   	<string name="resource_subtype_mushrooms">Mushrooms</string>
+   	
+   	<string name="resource_subtype_basic">Basic</string>
+   	<string name="resource_subtype_salad">Salad</string>
+   	<string name="resource_subtype_pasta">Pasta</string>
+   	<string name="resource_subtype_burger">Burger</string>
+   	
+   	<string name="resource_subtype_chicken">Chicken</string>
+   	<string name="resource_subtype_pork">Pork</string>
+   	<string name="resource_subtype_beef">Beef</string>
+   	
+   	<string name="resource_subtype_any_meat">Any meat</string>
+   	<string name="any_3_different_vegetables">Any 3 different vegetables</string>
+   	
+   	<!-- Conditions -->
+   	<string name="condition_flu">Flu</string>
+   	<string name="condition_trauma_injuries">Trauma Injuries</string>
+   	<string name="condition_malnutrition">Malnutrition</string>
+   	<string name="condition_radiation">Radiation</string>
+   	<string name="condition_combat_wounds">Combat Wounds</string>
+   	<string name="tooltip_condition_flu">Contagious disease that sometimes is brought by visitors</string>
+   	<string name="tooltip_condition_malnutrition">This colonist hasn't eaten enough variety of food</string>
+   	
+   	<!-- Tool Tips -->
+    <string name="tooltip_resource_usable">(1): Free: (2), Total: (3)</string>
+   	<string name="tooltip_requires_resource">Requires (1)</string>
+   	<string name="tooltip_requires_tech">Requires (1)</string>
+   	<string name="tooltip_dead_end_title">One Connection</string>
+   	<string name="tooltip_dead_end">Dead End. This structure can only have one interior connection.</string>
+   	<string name="tooltip_operator">Operated by</string>
+    <string name="tooltip_disable">Disable structure (turn off power and usage)</string>
+    <string name="tooltip_enable">Enable structure</string>
+    <string name="tooltip_lock">Lock this structure (prevent colonists from entering or leaving)</string>
+    <string name="tooltip_unlock">Unlock this structure</string>
+    <string name="tooltip_render_tops">Show Tops</string>
+    <string name="tooltip_recycle">Recycle</string>
+    <string name="tooltip_link">Connect these two structures</string>
+    <string name="tooltip_edit">Edit the contents of this structure</string>
+    <string name="tooltip_power_generation">Generating (1) out of (2)</string>
+    <string name="tooltip_power_collection">Power collection per strike: (1)</string>
+    <string name="tooltip_water_generation">Water Generation</string>
+    <string name="tooltip_water_consumption">Water Consumption</string>
+    <string name="tooltip_water_consumption_components">Water Consumption (1), of which (2) are consumed by components</string>
+    <string name="tooltip_power_consumption_components">Consuming (1), of which (2) are consumed by components</string>
+   	<string name="tooltip_power_consumption">Power Consumption: (1)</string>
+    <string name="tooltip_oxygen_generation">Generates oxygen for approximately (1) people</string>
+    <string name="tooltip_oxygen_consumption">Consumes the equivalent of (1) people</string>
+    <string name="tooltip_slow_production">Slow production and low maintenance</string>
+    <string name="tooltip_fast_production">Fast production and high maintenance</string>
+    <string name="tooltip_starchy">Starchy</string>
+    <string name="tooltip_specialization_percentages">Adjust specialization percentages for the colony. The right colonists will be allowed in, to try to match the percentages as closely as possible.</string>
+    <string name="tooltip_specialization_target">We are aiming to have (1) of (2) in the base.</string>
+	<string name="tooltip_specialization_current">We currently have (1) (2) in the base, which represent (3) of the population.</string>
+	<string name="tooltip_reset_defaults">Reset to defaults.</string>
+	<string name="tooltip_armed">Armed</string>
+    <string name="tooltip_unoperated">Unoperated. This Structure is not being operated from the Command Center.</string>
+    <string name="tooltip_requires">Requires (1)</string>
+    <string name="tooltip_permission_colonists">Allow ships containing new colonists to land</string>
+   	<string name="tooltip_permission_merchants">Allow trading ships to land</string>
+    <string name="tooltip_permission_visitors">Allow ships containing temporary visitors to land. Visitors use the base's services and pay for them.</string>
+   	<string name="tooltip_switch_panel">Toggle Panel</string>
+   	<string name="tooltip_product">(1), Value: (2)(n)Click to trade.(n)Shift+click to trade multiple.</string>
+   	<string name="tooltip_disable_non_vital_structures">Disable all non vital structures</string>
+   	<string name="tooltip_enable_all_Structures">Enable all structures</string>
+   	<string name="tooltip_increases_morale">Increases morale</string>
+	<string name="tooltip_surveyed">Surveyed. Any intruders will be detected when passing through this structure.</string>
+	<string name="tooltip_no_atmosphere">This planet has no atmosphere</string>
+	<string name="tooltip_no_meteors">There is no risk of meteors on this planet</string>
+	<string name="tooltip_no_predictable_disasters">There are no predictable disasters in this planet</string>
+	<string name="tooltip_no_thunderstorms">There is no risk of thunderstorms on this planet</string>
+	<string name="tooltip_structure_requires">(1) requires (2)</string>
+	<string name="tooltip_visitors_on_base">Waiting for (1) visitors at the base</string>
+	<string name="tooltip_priority_up">Prioritize work in this structure</string>
+	<string name="tooltip_priority_down">Go back to normal priority</string>
+	<string name="tooltip_high_priority">Work in this structure has priority</string>
+	<string name="tooltip_high_durability">High Durability: This resource will last for longer before disintegrating</string>
+	<string name="tooltip_cant_recycle">Recycling this construction would split the base in 2</string>
+	<string name="tooltip_cant_edit">To edit a structure it has to be operational and have at least one interior connection</string>
+	<string name="tooltip_manufacture_limit">Production limit for (1)</string>
+	<string name="tooltip_message">Left click to focus, right click to dismiss.</string>
+	<string name="tooltip_stats_low">Low Stats: This colonist will perform tasks at reduced speed.</string>
+	<string name="tooltip_stats_very_low">Very Low Stats: This colonist will only perform critical tasks, at a reduced speed.</string>
+	<string name="tooltip_stats_critical">Critical Stats: This colonist will not perform any tasks.</string>
+
+    <!-- Planets -->
+    <string name="planet_d_name">Class D</string>
+   	<string name="planet_f_name">Class F</string>
+   	<string name="planet_m_name">Class M</string>
+    <string name="planet_s_name">Class S</string>
+    <string name="planet_d_difficulty">Accessible</string>
+    <string name="planet_f_difficulty">Challenging</string>
+    <string name="planet_m_difficulty">Overwhelming</string>
+    <string name="planet_s_difficulty">Suicide</string>
+    <string name="planet_d_description">Medium size desert planet with a thick CO2 atmosphere, which partially protects it from Meteors and Solar Flares.</string>
+	<string name="planet_f_description">Outer planet with a Nitrogen atmosphere. The thickness of the atmosphere prevents much of the light from reaching the surface.</string>
+	<string name="planet_m_description">Moon of a Gas Giant with no atmosphere, which leaves it very exposed to Meteors and Solar Flares, and unable to support Wind Turbines.</string>
+	<string name="planet_s_description">Moon of a Gas Giant with thin but active atmosphere, constant thunderstorms pose a threat and methane lakes reduce buildable surface.</string>
+	<string name="characteristics">Characteristics</string>
+	<string name="light_amount">Light Amount</string>
+	<string name="atmosphere_density">Atmosphere Density</string>
+	<string name="meteor_risk">Meteor Risk</string>
+	<string name="thunderstorm_risk">Thunderstorm Risk</string>
+	<string name="sandstorm_risk">Sandstorm Risk</string>
+	<string name="blizzard_risk">Blizzard Risk</string>
+	<string name="solar_flare_risk">Solar Flare Risk</string>
+	<string name="base_name">Base Name</string>
+    <string name="base">Base</string>
+    
+    <!-- Messages -->
+    <string name="message_ship_landed">(1) has landed</string>
+	<string name="message_structure_completed">(1) has been built</string>
+    <string name="message_structures_completed">Structures have been built</string>
+    <string name="message_components_completed">Components have been built</string>
+    <string name="message_structure_no_oxygen">(1) is low on oxygen</string>
+    <string name="message_structure_no_power">(1) is out of power</string>
+    <string name="message_structure_no_water">(1) is out of water</string>
+    <string name="message_structures_no_oxygen">Structures low on oxygen</string>
+    <string name="message_structures_no_power">Structures out of power</string>
+    <string name="message_structures_no_water">Structures out of water</string>
+   
+    <string name="message_intruder_killed">Intruder has been killed</string>
+   	<string name="message_intruders_killed">Intruders have been killed</string>
+    <string name="message_colonist_died">(1) has died</string>
+    <string name="message_colonist_died_oxygen">(1) has died of asphyxiation</string>
+    <string name="message_colonist_died_starvation">(1) has died of starvation</string>
+   	<string name="message_colonist_died_dehydration">(1) has died of dehydration</string>
+   	<string name="message_colonist_died_condition">(1) has died due to (2)</string>
+   
+   	<string name="message_colonists_died">Colonists have died</string>
+    <string name="message_colonists_died_oxygen">Colonists have died of asphyxiation</string>
+    <string name="message_colonists_died_starvation">Colonists have died of starvation</string>
+   	<string name="message_colonists_died_dehydration">Colonists have died of dehydration</string>
+   			
+   	<string name="message_bot_died">(1) damaged irreversibly</string>
+    <string name="message_bots_died">Bots damaged irreversibly</string>
+   			
+   	<string name="message_meteor_hit">Meteor impact on (1)</string>
+   	<string name="message_lightning_strike">Lightning strike on (1)</string>
+   
+    <string name="message_sandstorm_detected">Sandstorm detected</string>
+    <string name="message_sandstorm_soon">Sandstorm approaching soon</string>
+    <string name="message_sandstorm_now">Sandstorm imminent</string>
+    <string name="message_blizzard_detected">Blizzard detected</string>
+    <string name="message_blizzard_soon">Blizzard approaching soon</string>
+    <string name="message_blizzard_now">Blizzard imminent</string>
+    <string name="message_solar_flare_detected">Solar Flare detected</string>
+    <string name="message_solar_flare_soon">Solar Flare hitting soon</string>
+    <string name="message_solar_flare_now">Solar Flare imminent</string>
+    <string name="message_visitors_left_fee">Visitors have paid (1) Coins for services</string>
+    <string name="message_visitors_left_prestige">Attending visitors has earned (1) prestige points</string>
+    <string name="message_visitors_event_left_fee">The (1) have paid (2) Coins for services</string>
+    <string name="message_visitors_event_left_prestige">Helping (1) increased prestige by (2)</string>
+    
+    <string name="message_intruder">An armed intruder has been detected</string>
+    <string name="message_intruders">Armed intruders have been detected</string>
+   	<string name="message_incoming_transmission">Incoming Transmission</string>
+   	<string name="message_low_power_storage">Power storage is low</string>
+    <string name="message_critical_power_storage">Power storage is critical</string>
+    <string name="message_low_water_storage">Water storage is low</string>
+   	<string name="message_oxygen_balance">Oxygen consumption exceeds production</string>
+    <string name="message_critical_water_storage">Water storage is critical</string>
+    <string name="message_meteor_destroyed">A meteor has been destroyed</string>
+   
+	<string name="message_not_enough_storage_space">We are low on storage space</string>
+    <string name="message_out_of_resource">We've run out of (1)</string>
+    <string name="message_recycle_colony_ship">You should recycle the colony ship</string>
+    <string name="message_no_food">We've run out of food</string>
+    <string name="message_low_food">Our food stocks are low</string>
+    
+    <!-- Interactions -->
+    <string name="consuming">Having (1)</string>
+    <string name="healing">Healing (1)</string>
+    <string name="shooting">Shooting (1)</string>
+    <string name="fighting">In a fight</string>
+    <string name="operating">Operating (1)</string>
+    <string name="repairing">Repairing (1)</string>
+    <string name="maintaining">Maintaining (1)</string>
+    <string name="being_healed">Being healed by (1)</string>
+   	<string name="being_used">Being used by (1)</string>
+   	<string name="being_looked_at">Being looked at by (1)</string>
+   	<string name="being_maintained">Being maintained by (1)</string>
+   	<string name="being_operated">Being operated by (1)</string>
+    
+    <!-- Milestones -->
+   	<string name="milestones">Milestones</string>
+	<string name="reach_population">Reach Population</string>
+	<string name="reach_prestige">Reach Prestige</string>
+	<string name="survive_one_day">Survive for one day</string>
+	<string name="increase_population">Get new colonists to the base</string>
+	<string name="acquire_techs">Acquire (1) Techs</string>
+	<string name="build_bots">Build or purchase (1) bots</string>
+	<string name="generate_power">Generate (1) of power</string>
+	<string name="milestone_reached">Milestone Reached</string>
+	<string name="milestone_x_reached">(1) Reached</string>
+	<string name="milestone_survival">Survival</string>
+	<string name="milestone_survival_text">One day after landing, your people are still alive</string>
+    <string name="milestone_self_sufficiency">Self-Sufficiency</string>
+	<string name="milestone_self_sufficiency_text">You now have the structures in place to sustain your colony</string>
+   	<string name="milestone_expansion">Expansion</string>
+	<string name="milestone_expansion_text">You managed to get new colonists to arrive at your base</string>
+    <string name="milestone_robotization">Robotization</string>
+	<string name="milestone_robotization_text">Robotization will improve the efficiency of your colony</string>
+    <string name="milestone_century">Century</string>
+	<string name="milestone_century_text">Your colony now has 100 citizens</string>
+	<string name="milestone_standing">Standing</string>
+	<string name="milestone_standing_text">Your colony is known by everyone</string>
+    <string name="milestone_power_monger">Powermonger</string>
+	<string name="milestone_power_monger_text">You are now generating a ton of power</string>
+    <string name="milestone_megalomania">Megalomania</string>
+	<string name="milestone_megalomania_text">You have proven what you are capable of</string>
+    <string name="milestone_technocracy">Technocracy</string>
+	<string name="milestone_technocracy_text">You now have acquired all relevant techs</string>
+    <string name="milestone_consolidation">Consolidation</string>
+	<string name="milestone_consolidation_text">Your colony now has 300 citizens</string>
+     
+    <!-- Atmosphere -->
+   	<string name="atmosphere_density_none">None (Not suitable for Wind Turbines)</string>
+	<string name="atmosphere_density_low">Low (Wind Turbines operate at reduced capacity)</string>
+	<string name="atmosphere_density_high">High (Suitable for Wind Turbines)</string>
+	
+	<string name="light_amount_none">None</string>
+	<string name="light_amount_low">Low (Solar Panels operate at reduced capacity)</string>
+	<string name="light_amount_high">High (Solar Panels operate at full capacity)</string>
+	<string name="light_amount_variable">Variable (Solar Panels disrupted by cloud cover)</string>
+	
+	<string name="quantity_none">None</string>
+	<string name="quantity_low">Low</string>
+	<string name="quantity_high">High</string>
+
+	<!-- Load Game screen -->
+    <string name="confirm_save_delete">Are you sure you want to delete (1)?</string>
+	
+	<!-- Trading -->
+    <string name="trading">Trade</string>
+	<string name="merchant_stock">Trader stock</string>
+	<string name="merchant_trade">Trader trade</string>
+	<string name="merchant_cargo">Trader cargo</string>
+	<string name="base_stock">Base stock</string>
+	<string name="base_trade">Base trade</string>
+	<string name="trade">Trade</string>
+	<string name="dismiss">Dismiss</string>
+	<string name="value">Value: (1)</string>
+	<string name="value_commission">Value: (1) ((2)% commission)</string>
+	<string name="no_resources_available">No resources</string>
+	
+	<!-- Sizes -->
+	<string name="size_0">Small</string>
+	<string name="size_1">Medium</string>
+	<string name="size_2">Large</string>
+	<string name="size_3">Very Large</string>
+	<string name="size_4">Massive</string>
+	
+	<!-- Landing permissions -->
+    <string name="ship_types">Ship Types</string>
+	<string name="specializations">Specializations</string>
+	<string name="merchant">Trader</string>
+	<string name="merchant_freelance_description">Freelance (1) Trader</string>
+	<string name="merchant_corporate_description">(1) Representative</string>
+	<string name="landing_permissions">Landing Permissions</string>
+    <string name="manual">Manual</string>
+    <string name="percentages">Percentages</string>
+   	<string name="current">Current</string>
+   	<string name="desired">Target</string>
+   	
+   	<!-- Security controls -->
+   	<string name="alert_state">Alert State</string>
+	<string name="security_controls">Security Controls</string>
+	<string name="no_alert">No Alert</string>
+	<string name="yellow_alert">Yellow Alert</string>
+	<string name="red_alert">Red Alert</string>
+	
+	<!-- Building Tooltips -->
+	<string name="tooltip_base_pad">Simple pad that can be used to expand the base cheaply</string>
+	<string name="tooltip_oxygen_generator">Generates oxygen from electricity and water</string>
+	<string name="tooltip_dorm">Basic communal sleeping facility.</string>
+	<string name="tooltip_cabin">Sleeping facility with more confortable beds.</string>
+	<string name="tooltip_airlock">Allows colonists to enter and exit the colony.</string>
+	<string name="tooltip_processing_plant">Facility to process raw resources into usable materials</string>
+	<string name="tooltip_wind_turbine">Generates electricity from the wind (as long as there is an atmosphere)</string>
+	<string name="tooltip_solar_panel">Generates electricity from light (as long as there is any)</string>
+	<string name="tooltip_power_collector">Stores electricity to use when none is being generated</string>
+	<string name="tooltip_water_extractor">Extracts water from the soil</string>
+	<string name="tooltip_water_tank">Stores water for later use</string>
+	<string name="tooltip_canteen">A place for colonists to eat and drink</string>
+	<string name="tooltip_bar">A place for colonists to relax and enjoy some drinks</string>
+	<string name="tooltip_bio_dome">Facility to grow vegetables and plants</string>
+	<string name="tooltip_factory">Facility to create processed goods from basic resources</string>
+	<string name="tooltip_storage">A place to safely store resources, and prevent them from deteriorating</string>
+	<string name="tooltip_sick_bay">A basic infirmary to treat colonists.</string>
+	<string name="tooltip_landing_pad">Basic landing facility. Small colonist or trading ships can land here.</string>
+	<string name="tooltip_starport">Advanced landing facility. Large colonist, trading and visitor ships can land here.</string>
+	<string name="tooltip_signpost">Display panel showing information about the colony</string>
+	<string name="tooltip_pyramid">A nice structure to highlight the success of your colony</string>
+	<string name="tooltip_monolith">An epic and totally pointless symbol of achievement</string>
+	<string name="tooltip_lab">Facility to produce medical supplies and also to grow synthetic meat</string>
+	<string name="tooltip_robotics_facility">Bot construction and repair facility</string>
+	<string name="tooltip_control_center">Place to control surveillance and communications structures</string>
+	<string name="tooltip_multi_dome">Multiple purpose leisure and fitness building</string>
+	<string name="tooltip_radio_antenna">A way to contact vessels traveling near your planet</string>
+	<string name="tooltip_telescope">Detects incoming disasters. Allows Anti Meteor Laser to aim and destroy meteors</string>
+	<string name="tooltip_anti_meteor_laser">In coordination with the Telescope, can destroy meteors that would potentially hit the base</string>
+	<string name="tooltip_lightning_rod">Protects an area around it from lightning strikes, will also harvest their energy.</string>
+	<string name="tooltip_mine">A place to extract Ore from the ground. Needs to be placed at the base of a mountain.</string>
+	
+	<!-- Component Tooltips -->
+	<string name="tooltip_bunk">Any two colonists can get some rest here.</string>
+	<string name="tooltip_bed">Colonists can get some rest here, restores some Morale also.</string>
+	<string name="tooltip_bioplastic_processor">Creates Bioplastic from Starch.</string>
+	<string name="tooltip_metal_processor">Creates Metal from Ore.</string>
+	<string name="tooltip_spares_workshop">An engineer can make Spares here.</string>
+	<string name="tooltip_semiconductor_foundry">An engineer can make Semiconductors here.</string>
+	<string name="tooltip_arms_workshop">An engineer can make Guns here.</string>
+	<string name="tooltip_pine_tree">A regular pine tree. Produces oxygen during the day, consumes some oxygen at night. Colonists can relax by looking at it for a bit.</string>
+	<string name="tooltip_oak_tree">A regular oak tree. Produces oxygen during the day, consumes some oxygen at night. Colonists can relax by looking at it for a bit.</string>
+	<string name="tooltip_vegetable_pad">A hydroponic Vegetable Pad.</string>
+	<string name="tooltip_medicinal_pad">A vegetable pad where to grow Medicinal Plants.</string>
+	<string name="tooltip_meal_maker">Creates Meals from Vegetables or Vitromeat.(n)If there is enough variety of ingredients, will create nicer meals that restore morale.</string>
+	<string name="tooltip_drinks_machine">Produces nice Alcoholic Drinks that colonists can consume to relax.</string>
+	<string name="tooltip_bar_table">A place for colonists to have a drink.</string>
+    <string name="tooltip_bar_table_no_chairs">A place for colonists to have a drink.</string>
+	<string name="tooltip_drinking_fountain">Colonists can drink water here to increase their hydration levels.</string>
+	<string name="tooltip_table">A table where up to 4 colonists can eat their meals.</string>
+	<string name="tooltip_table_small">A table where up to 2 colonists can eat their meals.</string>
+	<string name="tooltip_decorative_plant">A nice plant.</string>
+	<string name="tooltip_video_screen">A screen where colonists can watch the news and other shows.</string>
+	<string name="tooltip_radio_console">A worker will monitor a Radio Antenna from here.</string>
+	<string name="tooltip_telescope_console">An Engineer will monitor a Telescope from here.</string>
+	<string name="tooltip_security_console">A Guard will monitor suspicious activity in a few structures from this Console. This will allow you to detect intruders before they kill anybody.</string>
+	<string name="tooltip_treadmill">A fancy exercise machine where people can de-stress by running in place</string>
+	<string name="tooltip_exercise_bar">A simple exercise bar where people can de-stress by doing pull-ups</string>
+	<string name="tooltip_bench">A simple bench where people can chill out for a while</string>
+	<string name="tooltip_bot_auto_repair">Bots can get automatically repaired here.</string>
+	<string name="tooltip_bot_workshop">An Engineer can build Bots here.</string>
+	<string name="tooltip_tissue_synthesizer">Vitromeat is produced here.</string>
+    <string name="tooltip_workbench">A place for a Medic to make Medical Supplies.</string>
+    <string name="tooltip_armory">A place to store Guns.</string>
+    <string name="tooltip_medical_cabinet">A place to store Medical Supplies.</string>
+    <string name="tooltip_sick_bay_bed">Colonists can receive medical treatment here.</string>
+    
+	<!-- Alert Tooltips -->
+	<string name="tooltip_no_alert">This is the normal base status. All colonists perform their duties as normal.</string>
+	<string name="tooltip_yellow_alert">When the base is on yellow alert:(n) -All colonists will stay indoors.(n) -Medics and guards will stay on duty for longer.</string>
+	<string name="tooltip_red_alert">When the base is on red alert:(n) -All colonists will stay indoors.(n) -Medics and guards will stay on duty for longer.(n) -Colonists will fight enemies by any means necessary.</string>
+	
+	<!-- Resource categories -->
+	<string name="resource_category_count">General</string>
+	<string name="resource_category_food">Food</string>
+	<string name="resource_category_electronics">Electronics</string>
+	<string name="resource_category_medical">Medical</string>
+	<string name="resource_category_rawmaterial">Raw Materials</string>
+	<string name="resource_category_currency">Currency</string>
+	<string name="resource_category_industrial">Industrial</string>
+	
+	<!-- Corporation names -->
+	<string name="corporation_count">General Goods</string>
+	<string name="corporation_food">Galactic Foods</string>
+	<string name="corporation_electronics">Macrowares</string>
+	<string name="corporation_medical">Star Pharma</string>
+	<string name="corporation_rawmaterial">Solar Raw Corp</string>
+	<string name="corporation_industrial">Cosmos Industrial</string>
+	<string name="corporation_currency">Currency</string>
+	
+	<!-- Settings -->
+	<string name="settings">Settings</string>
+	<string name="settings_video">Video</string>
+	<string name="settings_audio">Audio</string>
+	<string name="resolution">Resolution</string>
+	<string name="quality">Quality</string>
+	<string name="anti_aliasing">Anti Aliasing</string>
+	<string name="vsync">VSync</string>
+	<string name="quality_0">Low</string>
+	<string name="quality_1">Medium</string>
+	<string name="quality_2">High</string>
+	<string name="quality_3">Ultra</string>
+	<string name="anti_aliasing_off">Off</string>
+	<string name="anti_aliasing_on">On</string>
+	<string name="sfx_volume">SFX Volume</string>
+	<string name="music_volume">Music Volume</string>
+	<string name="controls">Controls</string>
+		
+	<!-- Visitors -->
+	<string name="visitor_event_needs">Visitor needs</string>
+	<string name="visitor_event_reward">Reward per visitor</string>
+	
+	<string name="visitor_event_title">Incoming communication</string>
+	<string name="visitor_event_description">A ship containing a (1) group of (2) are asking for help.</string>
+	<string name="visitor_event_footer">Do you grant them permission to land?</string>
+	
+	<string name="visitor_amount_small">small</string>
+	<string name="visitor_amount_medium">sizable</string>
+	<string name="visitor_amount_large">large</string>
+	
+	<string name="visitor_injured_miners">injured miners</string>
+	<string name="visitor_fugitives">fugitives</string>
+	<string name="visitor_irradiated_workers">irradiated nuclear workers</string>
+	<string name="visitor_wounded_soldiers">wounded soldiers</string>
+	<string name="visitor_stranded_travellers">stranded travellers</string>
+	<string name="visitor_spatial_accident_victims">spatial accident victims</string>
+	
+	<!-- Techs -->
+	<string name="techs">Techs</string>
+	<string name="tech_required">Requires Tech</string>
+	<string name="tech_x_acquired">(1) Acquired</string>
+	
+	<string name="tech_goliath_turbine">Goliath Turbine Patent</string>
+	<string name="tech_colossal_panel">Colossal Panel Patent</string>
+	<string name="tech_massive_storage">Massive Storage Patent</string>
+	<string name="tech_farm_dome">Farm Dome Patent</string>
+	<string name="tech_mega_collector">Mega Collector Patent</string>
+	<string name="tech_super_extractor">Super Extractor Patent</string>
+	<string name="tech_constructor_bot">Constructor Bot Patent</string>
+	<string name="tech_driller_bot">Driller Bot Patent</string>
+	<string name="tech_gm_tomatoes">GM Tomato DNA</string>
+	<string name="tech_gm_onions">GM Onion DNA</string>
+	
+	<string name="tech_goliath_turbine_description">Allows the construction of Goliath Wind Turbines (larger Wind Turbines)</string>
+	<string name="tech_colossal_panel_description">Allows the construction of Colossal Solar Panels (larger Solar Panels)</string>
+	<string name="tech_massive_storage_description">Allows the construction of Massive Storages (larger Storage)</string>
+	<string name="tech_farm_dome_description">Allows the construction of Farm-Domes (larger Bio-Domes)</string>
+	<string name="tech_mega_collector_description">Allows the construction of Mega Collectors (larger Power Collectors)</string>
+	<string name="tech_super_extractor_description">Allows the construction of Super Extractors (larger Water Extractors)</string>
+	<string name="tech_constructor_bot_description">Allows the manufacturing of Constructor Bots</string>
+	<string name="tech_driller_bot_description">Allows the manufacturing of Driller Bots</string>
+	<string name="tech_gm_tomatoes_description">Allows you to plant GM Tomatoes, which grow faster, however some say these are dangerous for your health</string>
+	<string name="tech_gm_onions_description">Allows you to plant GM Onions, which grow faster, however some say these are dangerous for your health</string>
+	
+	<!--Challenges -->
+	<string name="challenges">Challenges</string>
+	<string name="select_challenge">Select Challenge</string>
+	<string name="challenge_quit">Quit</string>
+	<string name="challenge_continue">Continue</string>
+	<string name="challenge_done_title">Challenge Completed</string>
+	<string name="challenge_failed_title">Challenge Failed</string>
+	<string name="challenge_failed_text">You didn't manage to achieve your goals. Better luck next time!</string>
+	<string name="challenge_objective">Objective</string>
+	<string name="challenge_disabled_element">Disabled in this challenge</string>
+	<string name="challenge_requires">You need to complete the (1) challenge in order to play this one</string>
+	
+	<!-- Mining station alpha -->
+	<string name="planetbase_corp">Planetbase Corp</string>
+	<string name="mining_station_alpha_name">Mining Station Alpha</string>
+	<string name="mining_station_alpha_base_name">Station Alpha</string>
+	<string name="mining_station_alpha_description">
+Your first assignment is to establish a fully automated mining outpost in a remote world.(n)
+You will have to accomplish your mission with limited personnel as you won't be getting any more colonists. Some traders operate in the area so you might be able to buy supplies from them.(n)
+	</string>
+	<string name="mining_station_alpha_objective">Accumulate 100 units of Ore</string>
+	<string name="mining_station_alpha_done">You've successfully completed your first assignment for Planetbase Corp.</string>
+	
+	<!-- Starport Atlantis -->
+	<string name="starport_atlantis_name">Starport Atlantis</string>
+	<string name="starport_atlantis_base_name">Starport Atlantis</string>
+	<string name="starport_atlantis_description">
+Your next mission is to take over the management of Starport Atlantis. This is a facility that acts as a waypoint for various trading and mining routes, you will have to expand it and turn a profit quickly.(n)
+There are no resources in this planet, so any supplies you might need you will have to purchase from traders.(n)
+	</string>
+	<string name="starport_atlantis_objective">Accumulate 1000 Coins in less than 30 days</string>
+	<string name="starport_atlantis_done">Objetive completed. You can now proceed to the next mission.</string>
+	
+	<!-- Frozen Cage -->
+	<string name="frozen_cage_name">Frozen Cage</string>
+	<string name="frozen_cage_base_name">Frozen Cage</string>
+	<string name="frozen_cage_description">
+While traveling to your next assignment, the life support systems in your vessel have broken down, and you've been forced to perform an emergency landing on the nearest planet.(n)
+You are unsure of what awaits there, but the only chance of survival seems to be to try to communicate with base station and hope for a rescue.(n)</string>
+	<string name="frozen_cage_objective">Build 3 Radio Antennas and Radio Consoles.(n)Survive for 15 days.</string>
+	<string name="frozen_cage_done">All objetives completed. You can now proceed to the final mission.</string>
+	
+	<!-- Dark Moon -->
+	<string name="dark_moon_name">Dark Moon</string>
+	<string name="dark_moon_base_name">Dark Moon</string>
+	<string name="dark_moon_description">Planetbase corp has now tasked you with colonizing a distant planet out of reach of all major trading routes. No atmosphere, short days and long nights make it a real challenge.</string>
+	<string name="dark_moon_objective">Reach 300 colonists</string>
+	<string name="dark_moon_done">Objective completed. You've now completed all Planetbase Corp challenges.</string>
+	
+	<!-- Solitude -->
+	<string name="freeman_chronicles">Freeman Chronicles</string>
+	<string name="solitude_name">Solitude</string>
+	<string name="solitude_base_name">Tinto Base</string>
+	<string name="solitude_description">
+For years Aristarchus Freeman was a top engineer at Planetbase Corp, but eventually he couldn't take the stress anymore and decided to start his own operation.(n)
+He bought a few second hand bots on the black market and headed for the Tinto planet, a resource rich but dangerous iron ball at the edge of the galaxy.(n)
+His plan was to make a living on his own by mining the planet and buying all other resources from the traders that ocasionally travel the area.(n)
+Hint: Lightning Rods don't need to be repaired with spares.(n)
+	</string>thema
+	<string name="solitude_objective">Get 15 bots.(n)Build: 4 Mines, 1 large Storage, 1 Starport and 2 Bot Auto Repairs.</string>
+	<string name="solitude_done">Well done, you've succesfully set up your own mining station!</string>
+
+	<!-- Green Acolytes -->
+	<string name="green_acolytes_name">Green Acolytes</string>
+	<string name="green_acolytes_base_name">Green Mother</string>
+	<string name="green_acolytes_description">
+Aristarchus was quite happy chilling out on his own, when he received a transmission from the Green Acolytes.(n)
+As a group of vegan plant lovers, they prefer to live separated from mainstream society. This time however, they've were looking to hire an external engineer.(n)
+The acolytes wanted to overhaul one of their colonies in a remote frozen world. This sounded like an interesting challenge, so he decided to take the job.(n)
+Hint: Make sure to always have a few Constructor Bots at the base, to keep all structures in good shape.
+	</string>
+	<string name="green_acolytes_objective">Build a massive Bio-Dome (Requires Tech).(n)Plant 12 Oak Trees and 12 Pine Trees.(n)Reach 200 prestige.</string>
+	<string name="green_acolytes_done">The colony is a big success!(n)The Green Acolytes are very happy!</string>
+
+	<!-- The Martians -->
+	<string name="the_martians_name">The Martians</string>
+	<string name="the_martians_base_name">S.O.S</string>
+	<string name="the_martians_description">
+After spending all his money, Freeman had to take a very risky contract to build a base in one of the harshest desert planets in the sector. Unfortunately, soon after landing, a sandstorm hit the ship and most of the crew died.(n)
+The situation was desperate. The 3 lone survivors had to build the basic structures to keep themselves alive, and then try to ready the ship. In order to do this, they would try to manufacture a couple of bots to perform some repairs on the damaged vessel, and mine some Ore to use as fuel.(n)
+Because of the lack of medical supplies, humans will be not doing any mining work in this challenge.(n)
+Hint: Try to salvage all resources before they decay.(n)
+	</string>
+	<string name="the_martians_objective">Use Driller Bots to accumulate 2 Ore.(n)Build 2 Constructor Bots.(n)</string>
+	<string name="the_martians_done">The survivors managed to repair the ship and got out of the planet.</string>
+  
+	<!-- Errors -->
+	<string name="error">Error</string>
+	<string name="error_could_not_save_file">Could not save file: (1)</string>
+	<string name="error_could_not_load_file">Could not load file: (1)(n)File is probably corrupted, try deleting it</string>
+	<string name="error_challenge_not_found">Challenge not found</string>
+	
+	<!-- Game over -->
+	<string name="game_over_title">Failure</string>
+	<string name="game_over_text">
+All your colonists are now dead, unfortunately you didn't succeed in creating a viable colony.(n)
+But this is part of the learning experience, maybe next time you can try a different base layout or build order.
+	</string>
+	<string name="game_over_extra_text">You can also check the Metagame section inside the help menu, it provides a more in depth look at the trickier mechanics in the game.</string>
+	<string name="game_over_extra_tutorial_text">We would also suggest you play the tutorial, as it explains the basics of the game.</string>
+	
+	<!-- Achievements -->
+	<string name="achievements">Achievements</string>
+	<string name="achievement_planetary_apprentice">Planetary Apprentice</string>
+	<string name="achievement_planetary_apprentice_description">Complete tutorial</string>
+	<string name="achievement_link_to_the_future">Link to the future</string>
+	<string name="achievement_link_to_the_future_description">Build two structures and connect them</string>
+	<string name="achievement_space_farmer">Space Farmer</string>
+	<string name="achievement_space_farmer_description">Have at least 20 Vegetable boxes in your base at any given time</string>
+	<string name="achievement_capitalist">Capitalist</string>
+	<string name="achievement_capitalist_description">Have at least 1000 Coins in your base at any given time</string>
+	<string name="achievement_cyber_miner">Cyber Miner</string>
+	<string name="achievement_cyber_miner_description">Have at least 6 Driller Bots and 2 operational Mines at any given time</string>
+	<string name="achievement_robo_colony">Robo Colony</string>
+	<string name="achievement_robo_colony_description">Build a base with at least 100 colonists, with at least 25% of Bots</string>
+	<string name="achievement_high_spirits">High Spirits</string>
+	<string name="achievement_high_spirits_description">Build a base with at least 100 colonists and 95% welfare ratio</string>
+	<string name="achievement_stargazer">Stargazer</string>
+	<string name="achievement_stargazer_description">Have 5 operational Telescopes at any given time</string>
+	<string name="achievement_steel_dome">Steel Dome</string>
+	<string name="achievement_steel_dome_description">Have 3 operational lasers, telescopes and telescope consoles at any given time</string>
+	<string name="achievement_express_outpost">Express Outpost</string>
+	<string name="achievement_express_outpost_description">Build a base with at least 100 colonists in less than 30 days</string>
+	<string name="achievement_express_colony">Express Colony</string>
+	<string name="achievement_express_colony_description">Build a base with at least 250 colonists in less than 60 days</string>
+	<string name="achievement_hoarder">Hoarder</string>
+	<string name="achievement_hoarder_description">Fill a Massive Storage to more than 90%</string>
+	<string name="achievement_megastructures">Megastructures</string>
+	<string name="achievement_megastructures_description">Build all massive structures</string>
+	<string name="achievement_police_state">Police State</string>
+	<string name="achievement_police_state_description">Have at least 20 armed Guards in your base at any given time</string>
+	<string name="achievement_genetic_engineer">Genetic Engineer</string>
+	<string name="achievement_genetic_engineer_description">Build a GM tomato and GM onion pad</string>
+	<string name="achievement_desert_landing">Desert Landing</string>
+	<string name="achievement_desert_landing_description">Land on the desert planet</string>
+	<string name="achievement_frozen_landing">Frozen Landing</string>
+	<string name="achievement_frozen_landing_description">Land on the frozen planet</string>
+	<string name="achievement_moon_landing">Moon Landing</string>
+	<string name="achievement_moon_landing_description">Land on the gas giant moon</string>
+	<string name="achievement_desert_base">Desert Base</string>
+	<string name="achievement_desert_base_description">Build a base with at least 100 colonists on the desert planet</string>
+	<string name="achievement_frozen_base">Frozen Base</string>
+	<string name="achievement_frozen_base_description">Build a base with at least 100 colonists on the frozen planet</string>
+	<string name="achievement_moon_base">Moon Base</string>
+	<string name="achievement_moon_base_description">Build a base with at least 100 colonists on the moon planet</string>
+	<string name="achievement_overpopulation">Overpopulation</string>
+	<string name="achievement_overpopulation_description">Build a base with at least 350 colonists</string>
+	<string name="achievement_hyper_megalomaniac">Hyper Megalomaniac</string>
+	<string name="achievement_hyper_megalomaniac_description">Build monoliths on all planets</string>
+	<string name="achievement_absolute_domination">Absolute Domination</string>
+	<string name="achievement_absolute_domination_description">Complete all milestones on all planets</string>
+	<string name="achievement_storm_landing">Storm Landing</string>
+	<string name="achievement_storm_landing_description">Land on the storm planet</string>
+	<string name="achievement_storm_base">Storm Base</string>
+	<string name="achievement_storm_base_description">Build a base with at least 100 colonists on the storm planet</string>
+	<string name="achievement_challenger">Challenger</string>
+	<string name="achievement_challenger_description">Complete one challenge</string>
+	<string name="achievement_hyper_challenger">Hyper Challenger</string>
+	<string name="achievement_hyper_challenger_description">Complete all builtin challenges</string>
+	<string name="achievement_express_starport">Express Starport</string>
+	<string name="achievement_express_starport_description">Complete Starport Atlantis challenge in less than 15 days</string>
+	<string name="achievement_express_dark_colony">Express Dark Colony</string>
+	<string name="achievement_express_dark_colony_description">Complete Dark Moon challenge in less than 70 days</string>
+	
+	<!-- Credits -->
+	<string name="credits">Credits</string>
+	<string name="credits_content">
+(h)Planetbase by Madruga Works(/h)
+
+(h)Design and Programming(/h)
+Martiño Figueroa
+
+(h)Art(/h)
+Tucho Fernández
+
+(h)UI Art and Logos(/h)
+Sara Teramo
+
+(h)Sound and Music(/h)
+Alexander Falinski
+
+(h)Character Animation(/h)
+Denny Lindberg
+
+
+and also...
+
+(h)Testing and feedback(/h)
+Miguel Ángel Cordero
+Antón Figueroa
+Oreste Gamba
+Anna Herdt
+Andrés Javaloy
+Tobias Joerden
+Heather Pittman
+Joshua J. Pittman
+Michelle Prendergast
+Eric von Stwolinski
+Frank Zichner
+
+(h)Special thanks to(/h)
+Manuel Sánchez
+
+
+3rd Party Materials
+
+Orbitron Bold Font
+Matt McInerney
+
+Some textures based on
+Middle Eastern Environment by Manufactura K4
+
+Menu planets based on
+Forge3D Planets
+
+Some particles based on
+Elementals Particles by G.E.TeamDev
+
+Some meteor models based on
+Low Poly Meteor Pack by Hedgehog Team
+
+Some meteor effects based on
+Meteor Storm Package by Pixagon
+
+</string>
+	
+</strings>

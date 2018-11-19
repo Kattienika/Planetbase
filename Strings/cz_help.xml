@@ -1,0 +1,835 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+    
+	<!-- Game Hints -->
+    <string name="game_hint">Hint</string>
+    
+    <!-- Loading screen hints -->
+    <string name="loading_hint_1">Bots can perform basic tasks way more efficiently than humans. It's a good idea to build a few and let the colonists focus on the more skilled jobs.</string>
+   	<string name="loading_hint_2">Colonists take time to move around the base, make sure the living facilities are close to their workplaces.</string>
+    <string name="loading_hint_3">You can use the charts window to monitor the evolution of your food stocks, when your people go hungry it might be too late to correct the situation.</string>
+    <string name="loading_hint_4">It's good to have redundant routes between the critical buildings in your base, otherwise, when one of the structures gets damaged, colonists could become trapped and eventually die.</string>
+    <string name="loading_hint_5">Your base's welfare is critical, you won't get any new colonists if they see your base is poorly run.</string>
+    <string name="loading_hint_6">During the lifetime of your base, your personnel needs might vary, make sure you use the landing permissions panel to control who is allowed in.</string>
+    <string name="loading_hint_7">Structures that are usually crowded (like Dorms or Bio-Domes) will require more oxygen than the more empty ones.</string>
+	<string name="loading_hint_8">Right clicking a message will dismiss it without focusing on it.</string>
+	<string name="loading_hint_9">It is critical that you only allow colonists in your base when you have the required infrastructure to deal with them.</string>
+    <string name="loading_hint_10">When placing components, you can shift+click to place multiple ones of the same type.</string>
+    <string name="loading_hint_11">All the important commands have keyboard shortcuts, you can use them to manage your colony more efficiently.</string>
+    <string name="loading_hint_12">Build small structures at the beginning of the game, when you have few resources, then switch to larger ones later on as they are more cost-efficient.</string>
+    <string name="loading_hint_13">Larger Solar Panels and Wind Turbines are more efficient, as they require less spares per unit of energy produced.</string>
+    <string name="loading_hint_14">You can use the power and water storage graphs in the charts window to find out if you need to build more Power Collectors or Water Tanks.</string>
+    <string name="loading_hint_15">Before you reach a high level of prestige, make sure you recruit some Guards and arm them, as this will attract attackers.</string>
+    <string name="loading_hint_16">Acquiring the Techs for massive structures will make building a large base a lot easier.</string>
+    <string name="loading_hint_17">You can turn off power to all non vital structures in one click in the Grids panel, you can use this when low on power.</string>
+	<string name="loading_hint_18">Use the manufacturing limits panel, to make sure colonists are not spending all your valuable Metal and Bioplastic producing stuff you don't need.</string>
+	<string name="loading_hint_19">Making a ton of Carrier Bots will free the humans to do more important tasks. It will also increase morale, as carrying stuff around makes people unhappy.</string>
+	<string name="loading_hint_20">Constructor Bots can also repair structures, having a few will lower the workload of your Engineers.</string>
+	<string name="loading_hint_21">Driller Bots are a lot more efficient than Workers at mining. Build a few or purchase them from traders.</string>
+	<string name="loading_hint_22">Don't accumulate Ore or Starch. They serve no purpose apart from being transformed into Metal and Bioplastic. Sell them or build more processors and use the processed resources to build more domes.</string>
+
+	
+	<!-- Help -->
+    <string name="camera">Camera</string>
+    <string name="structures">Structures</string>
+    <string name="interior_structures">Interior Structures</string>
+    <string name="exterior_structures">Exterior Structures</string>
+    <string name="components">Components</string>
+    <string name="topics">Topics</string>
+    <string name="power_grid">Power Grid</string>
+    <string name="see_also">See Also</string>
+    <string name="colonist_status">Colonist Status</string>
+    <string name="oxygen_flow">Oxygen Flow</string>
+    <string name="recycling">Recycling</string>
+    <string name="leisure_components">Leisure Components</string>
+    <string name="vegetable_pads">Vegetable Pads</string>
+    <string name="table">Table</string>
+    <string name="disasters">Disasters</string>
+    <string name="meteor">Meteors</string>
+    <string name="sandstorm">Sandstorms</string>
+    <string name="blizzard">Blizzards</string>
+    <string name="thunderstorm">Thunderstorms</string>
+    <string name="solar_flare">Solar Flares</string>
+	<string name="conditions">Conditions</string>
+	<string name="metagame">Metagame</string>
+	<string name="pathing">Pathing</string>
+	<string name="hints">Hints</string>
+	<string name="ai">AI</string>
+	<string name="repairs">Repairs</string>
+	<string name="immigration">Immigration</string>
+	
+
+	<string name="help_main_text">
+In (game_title) you have to build a base in an off-world planet and get your colonists to survive.(n)
+You don't control the colonists directly but instead you build structures that will help them stay alive.(n)
+This guide explains the game in more detail than the tutorial, and will hopefully guide you on how to build a succesful base. 
+Additionally most elements of the game UI have tooltips associated with them, you can hover over almost anything and get a brief explanation.(n)
+    </string>
+   	
+   	<string name="help_camera">
+You can control the camera in a variety of ways.
+
+Pan: 
+	(camera_move_keys) keys
+	Place the mouse near the edges of the screen
+	
+Rotate: 
+	(camera_rotate_keys) keys
+	Drag middle mouse button
+	
+Zoom:
+	(camera_zoom_keys) keys
+	Mouse Wheel
+    </string>
+   	
+   	<string name="help_structures">
+A variety of structures can be built in the base. They are categorized in two different groups: interior and exterior.(n)
+Colonists can use an Airlock to move between the interior and exterior of the base.(n)
+   	</string>
+   	
+   	<string name="help_interior_structures">
+Structures that contain breathable air. Colonists can move between them without wearing a space suit.(n)
+All interior structures need to be interconnected, you won't be able to build them in isolation. Take this in account when designing your base.(n)
+   	</string>
+   	
+   	<string name="help_exterior_structures">
+Structures that are located outside the base. They don't contain breathable air, so colonists need to wear a space suit to reach them.(n)
+   	</string>
+   	
+   	<string name="help_airlock">
+Structure that allows colonists to enter and exit the base. It can only be connected to one other interior structure, so be careful when placing them.(n)
+It is relatively slow to use, so it might get congested at a later stage.(n)
+Make sure you build a few of these in the right places, you might want to make sure they are near Storages, Landing Pads and Starports so you can trade effectively.(n)
+    </string>
+    
+    <string name="help_oxygen_generator">
+Interior Structure that uses electricity to extract oxygen from water.(n)
+Oxygen produced here will flow to any connected interior structures rendering them inhabitable.(n)
+When a structure is selected, the info panel will show its current level of oxygen, when it is low, the structure will be colored in red and a warning sign will appear on top of it.(n)
+    </string>   
+    
+	<string name="help_canteen">
+Interior structure where colonists eat food and drink water.(n)
+Colonists will take meals from the Meal Maker and eat them at a Table. If there are no tables available they will eat on the floor, but this decreases morale.(n)
+You can install Drinking Fountains in the Canteen, for your colonists to replenish their hydration levels.(n)
+    </string>    
+    
+    <string name="help_dorm">
+Interior structure that functions as the main sleeping facility in the base. Here you can build Bunks which are the most space effective sleeping component.(n)
+To minimize traffic and keep noise levels down, it can only be connected to one other interior structure.(n)
+    </string>    
+    
+    <string name="help_cabin">
+Interior structure that functions as the secondary and more comfortable sleeping facility in the base. Here you can build Beds, they restore sleep faster than Bunks, and also restore morale.(n)
+The Cabin can only be connected to one other interior structure.(n)
+    </string>    
+    
+    <string name="help_bio_dome">
+Interior structure that is the main food production facility. In here you can install Vegetable Pads that produce all kinds of vegetables, that in turn can then be processed into meals in the Meal Maker.(n)
+Vegetable Pads need to be maintained by a Biologist, otherwise they will decay and stop producing.(n)
+    </string>  
+        
+    <string name="help_processing_plant">
+Interior structure where raw resources, like Ore and Starch, are processed into refined resources, like Metal and Bioplastic.(n)
+This is done in the Metal Processor and Bioplastic Processor components, both are operated by Workers.(n)
+    </string>    
+    
+    <string name="help_factory">
+Interior structure where manufactured goods, like Spares, Semiconductors and Guns, are produced.(n)
+All the components in the Factory are operated by Engineers.(n)
+    </string>  
+    
+	<string name="help_multi_dome">
+Interior structure that is a multiple purpose entertainment and leisure facility.(n)
+    </string>    
+    
+    <string name="help_bar">
+Interior Structure where your colonists and visitors can relax and enjoy an Alcoholic Drink.(n)
+Alcoholic Drinks are produced in the Drinks Machine from Vegetables.(n)
+    </string>    
+    
+    <string name="help_storage">
+Interior structure where unused resources can be stored.(n)
+Stored resources don't deteriorate.(n)
+It is usually a good idea to place at least one near the Airlock and Landing Pad or Starport, so you can trade efficiently.(n)
+    </string>    
+    
+    <string name="help_control_center">
+Interior structure to control other structures.(n)
+It is required to access the Security Controls Panel, that allows you to set the alert status for the colony.(n)
+In here you can build several control consoles that will allow your colonists to control other buildings like the Radio Antenna or Telescope.(n)
+    </string>        
+    
+    <string name="help_robotics_facility">
+Interior Structure where Bots are built and repaired.(n)
+Note that to manufacture the Constructor Bot and Driller Bot you need to purchase the appropriate techs from traders.(n)
+    </string>    
+    
+    <string name="help_sick_bay">
+Interior Structure where Colonists and Visitors can get medical treatment from Medics.(n)
+    </string>    
+    
+    <string name="help_lab">
+Interior Structure where your Medics can manufacture Medical Supplies and Biologists can produce Vitromeat.(n)
+    </string>      
+   	   	
+   	<string name="help_solar_panel">
+Exterior structure that constitutes the more predictable source of energy. They work during light hours, and they don't when it's dark.(n)
+They can be built in several sizes, the larger ones are more expensive and produce more energy.(n)
+You will typically build a few of these and then some Power Collectors to store the energy to use at night.(n)
+Solar Panels and Wind Turbines need to be connected to a structure for them to provide power to it.(n)
+Solar Panels need to be maintained using Spares. Larger ones need to me maintained more often, but they are still more efficient than smaller ones, as they produce a lot more power.(n)
+   	</string>
+   	
+   	<string name="help_wind_turbine">
+Exterior structure that uses the air currents in the atmosphere to generate electricity, provided the planet has an atmosphere and the wind is strong enough.(n)
+Since they are highly unpredictable sources of electricity, you will typically need to combine them with Solar Panels and Power Collectors.(n)
+Wind Turbines are the only source of power available at night or during sandstorms, so it's good to have a few of these to avoid having to build too many Power Collectors.(n)
+They can be built in several sizes, the larger ones are more expensive and produce more energy.(n)
+Solar Panels and Wind Turbines need to be connected to a structure for them to provide power to it.(n)
+Wind Turbines need to be maintained using Spares. Larger ones need to me maintained more often, but they are still more efficient than smaller ones, as they produce a lot more power.
+   	   	</string>
+   	
+   	<string name="help_power_collector">
+Exterior structure that stores the excess electricity in the power grid (if any) and releases it back when required.(n)
+If the power grid is currently generating more energy than it is consumed, then energy will start getting stored in one of the empty Power Collectors.
+The more excess there is, the faster the collector will get replenished.(n)
+If the power grid is consuming more energy than it is produced, then energy will start getting drained from one of the Power Collectors until it is empty, if none are available, structures will be shut down.(n)
+You will typically need a few of these for the base to function correctly, as both Solar Panels and Wind Turbines can't generate electricity in all conditions.(n) 
+   	</string>
+   	
+   	<string name="help_water_extractor">
+Exterior structure that heats up soil to extract water vapor from it. This is a power intensive process.(n)
+Water Extractors need to be connected to a structure to provide a steady water supply to it.(n)
+The water supply from a particular extractor will often oscillate, it is usually a good idea to build a Water Tank to compensate for this.(n)
+   	</string>
+   	
+   	<string name="help_water_tank">
+Exterior structure that stores water when there is an excess of supply, and provides it back when there is not enough.(n)
+It is cheaper to build some of these instead of building the equivalent amount of Water Extractors to guarantee the water supply.(n)
+   	</string>
+   	
+   	<string name="help_landing_pad">
+Exterior structure that allows small colonist or trading ships to land.(n)
+New colonists will only come to the base if your welfare level is high enough. Welfare and prestige levels determine how often and how many new colonists will arrive to your base.(n)
+   	</string>
+   	
+	<string name="help_starport">
+Exterior structure that allows small and large ships of any kind to land.(n)
+New colonists and visitors will only come to the base if your welfare level is high enough. Welfare and prestige levels determine how often and how many new colonists and visitors will arrive to your base.(n)
+   	</string>
+   	
+	<string name="help_mine">
+Exterior structure where Workers or Driller Bots can extract Ore from the ground.(n)
+The Mine has to be placed at the base of a mountain (as well as near an existing structure to be connected to).
+   	</string>
+
+	<string name="help_radio_antenna">
+Exterior structure that can intercept distress calls.(n)
+When a communication is intercepted then you can choose to allow the calling ship to land in your base.(n)
+This structure is remotely operated from the Radio Console in the Control Center. This means that for it to function there has to be someone operating it at any given point in time.(n)
+Every Radio Antenna you build increases the probability transmission interception.(n)
+   	</string>   	
+   	
+	<string name="help_telescope">
+Exterior structure that can predict disasters like sandstorms, blizzards or solar flares. It can also work in coordination with the Anti Meteor Laser to destroy incoming meteors.(n)
+This structure is remotely operated from the Telescope Console in the Control Center. This means that for it to function there has to be someone operating it at any given point in time.(n)
+Every Telescope you build increases the probability of detection of sandstorms, blizzards, solar flares or meteors.(n)
+   	</string>  
+   	
+	<string name="help_anti_meteor_laser">
+Exterior structure that can destroy incoming meteors.(n)
+The chance of detection of a particular meteor depends on how many Telescopes are operational at any given point in time.(n)
+The Anti Meteor Laser takes a while to recharge, and can only cover a certain radius, so it might be useful to build several of these in planets where meteors are a threat.(n)
+   	</string> 
+   	
+	<string name="help_lightning_rod">
+Exterior structure that protects an area around it from lightning.(n)
+When a lightning strike occurs within its area of effect, the rod will absorb the energy from it, preventing any damage to the colonists and storing it in one of the Power Collectors.(n)
+   	</string>  
+   	
+	<string name="help_signpost">
+Exterior Structure that shows information about the colony. Increases prestige.(n)
+   	</string>
+   	
+	<string name="help_pyramid">
+Exterior Structure that has no real use, but will increase the prestige of your colony.(n)
+   	</string>
+   	
+   	<string name="help_monolith">
+Exterior Structure that is very expensive and totally pointless. It will however increase the prestige of your base.(n)
+   	</string>
+
+	<string name="help_connection">
+All structures need to be connected to the rest of the base in order for them to function properly.(n)
+Connected buildings share power and water, and in the case of interior structures, connections allow oxygen to flow and colonists to move between them.(n)
+To connect two structures you need to:
+- Click on one of them, then the other.
+- If the two structures can be connected, a connection button will appear, which you can click.
+- When placing a structure, a line will be displayed towards any other structures it could potentially be connected to.
+    </string>
+    
+    <string name="help_power_grid">
+Most structures and components need power to function, to achieve this you need to connect them to power generators, like a Solar Panels or Wind Turbines.(n)
+Each generator will generate a certain amount of power depending on the circumstances: Solar Panels only work during the day, Wind Turbines need an atmosphere and wind to function.(n)
+Each consumer (all other structures or components in the base), will drain a certain amount of power from the grid. If at any given time there is not enough power, structures will shut down.(n)
+You can use Power Collectors to store excess power when available and release it back when required (at night or when there is no wind).(n)
+You will typically need to build a combination of Solar Panels, Wind Turbines and Power Collectors for your base to function correctly.(n)
+You can check how much power each structure generates in the info panel that appears when you select it.(n)
+   	</string>
+   	
+   	<string name="help_water_grid">
+Some structures, like the Oxygen Generator, and some components, like the Water Fountain or Vegetable Pads require a constant supply of water to function.(n)
+You can extract water from the soil with the Water Extractor.(n)
+Each water consumer structure or component will require an amount of water, if there is not enough supply, the structure or component will cease to operate.(n)
+Since water production can oscillate with time, you can build Water Tanks to ensure a steady supply.(n)
+   	</string>
+    
+	<string name="help_components">
+Some interior structures can have components in them, these usually provide the actual functionality of the structure.(n)
+You can add or remove components to a structure by selecting it and then using the edit button.(n)
+Most structures have unique components, but there are a few that are shared.(n)
+    </string>       
+    
+	<string name="help_meal_maker">
+Canteen component that produces Meals from Vegetables or Vitromeat.(n)
+Any individual box of Vegetables or Vitromeat can be converted into a basic meal, however if the Meal Maker has enough variety of ingredients in it, it might be able to produce mixed meals, like pasta, salad or burgers.(n)
+Mixed meals restore morale as well as nutrition levels and prevent Malnutrition.(n)
+The full list of recipes is:
+(recipe_list)
+    </string>  
+    
+	<string name="help_tissue_synthesizer">
+Lab component that produces Vitromeat.(n)
+This is not as efficient as growing Vegetables, but it is a good use of the space in the Lab.(n)
+It needs to be maintained by a Biologist.
+    </string>      
+    
+    <string name="help_drinking_fountain">
+Component that allows colonists to replenish their hydration levels.(n)
+They are cheap to build and can be placed in the Canteen, Bar or Multi-Dome. They require a supply of water to function.(n)
+    </string>      
+    
+	<string name="help_table"> 
+Component that provides a place for colonists to eat Meals or drink Alcoholic Drinks.(n)
+Colonists can eat on the floor if there are no available tables, but this decreases morale and doesn't replenish nutrition levels as much.                         
+    </string>        
+    
+	<string name="help_leisure_component"> 
+Component that can be used to relax and increase colonist morale.(n)
+An individual will not use the same type of component too often, so it's important to build a variety of these.(n)
+    </string>  
+    
+    <string name="help_vegetable_pad"> 
+Bio-Dome component that is used to grow Vegetables. Each pad will produce Vegetables periodically, as long as it is in good condition.(n)
+Condition will decay over time and a Biologist will have to maintain the pad regularly to keep it in a good state.(n)
+Some types of pads also produce Starch. These pads will produce less food.(n)
+Some types of pads produce faster, but need to maintained more often. Some pads produce slower, but don't need as much maintenance.(n)
+    </string>
+    
+	<string name="help_bunk"> 
+Dorm component where any two individuals can sleep.(n)
+    </string>  
+    
+	<string name="help_bed"> 
+Cabin component where a colonist can sleep. It also recovers morale.(n)
+    </string>     
+    
+	<string name="help_bioplastic_processor"> 
+Processing Plant component where a Worker can turn Starch into Bioplastic.(n)
+    </string>      
+	
+	<string name="help_metal_processor"> 
+Processing Plant component where a Worker can turn Ore into Metal.(n)
+    </string>    
+    
+	<string name="help_workbench"> 
+Lab component where a Medic can manufacture Medical Supplies from Medicinal Plants and Bioplastic.(n)
+    </string>    
+    
+	<string name="help_security_console"> 
+Control Center component where a Guard can keep an eye on the security cameras of some of the interior structures.(n)
+If an Intruder walks through any surveyed structures, they will be detected and attacked before they can do much damage.(n)
+Each console can only monitor a limited number of structures, so it's a good idea to build a bunch of these to cover most of the base.(n)
+    </string>    
+    
+	<string name="help_armory"> 
+Control Center component where Guns can be stored. Guards (or colonists during a Red Alert) will be able to get guns from here.(n)
+    </string>    
+    
+    <string name="help_medical_cabinet"> 
+Sick Bay component where Medical Supplies can be stored.(n)
+    </string>    
+    
+	<string name="help_radio_console"> 
+Control Center component where a Worker can operate a Radio Antenna.(n)
+Radio Antennas need to be monitored at all times, and you need a Radio Console and Worker for each one.(n)
+    </string>    
+    
+	<string name="help_telescope_console"> 
+Control Center component where an Engineer operates a Telescope.(n)
+Telescopes need to be monitored at all times, and you need a Telescope Console and Engineer for each one.(n)
+    </string>    
+    
+	<string name="help_drinks_machine"> 
+Bar component that makes Alcoholic Drinks from Vegetables(n)
+    </string>   
+    
+	<string name="help_spares_workshop"> 
+Factory component where an Engineer can make Spares.(n)
+    </string>    
+    
+	<string name="help_semiconductor_foundry"> 
+Factory component where an Engineer can make Semiconductors.(n)
+    </string>     
+    
+	<string name="help_arms_workshop"> 
+Factory component where an Engineer can make Guns.(n)
+    </string>     
+    
+	<string name="help_bot_workshop"> 
+Robotics Facility component where an Engineer can make Bots.(n)
+    </string>     
+    
+	<string name="help_bot_auto_repair"> 
+Robotics Facility component where Bots can go and self repair.(n)
+    </string>                
+    
+    <string name="help_specializations">
+Every colonist has a specialized set of skills that allows them to perform certain tasks.(n)
+It's important to have the right number of people with the right specialization, in order to run the base properly.(n)
+You can control what kinds of specializations are allowed in the Landing Permissions panel.(n)
+    </string>
+    
+    <string name="help_worker">
+Workers perform the more basic or physically demanding tasks in the colony:(n)
+- Mine resources (not as efficiently as the Driller Bot).
+- Operate the components in the Processing Plant.
+- Operate the Radio Console.
+- If required, they can carry resources around (but not as efficiently as the Carrier Bot).
+    </string>
+    
+   	<string name="help_engineer">
+Engineers perform the more technical tasks in the colony:(n)
+- Build and repair structures.
+- Repair Bots.
+- Operate the components in the Factory and Robotics Facility.
+- Operate the Telescope Console.
+- If required, they can carry resources around (but not as efficiently as the Carrier Bot).
+    </string>
+    
+	<string name="help_biologist">
+Biologists are the people in charge of the food production in the base, they can:(n)
+- Maintain the Vegetable Pads in the Bio-Dome.
+- Maintain the Tissue Synthesizer in the Lab.
+- If required, they can carry resources around (but not as efficiently as the Carrier Bot).
+    </string>
+    
+	<string name="help_medic">
+Medics are responsible for maintaining the health of the colony, they can:(n)
+- Heal other colonists in the Sick Bay.
+- Create Medical Supplies using Workbenches in the Lab.
+- If required, they can carry resources around (but not as efficiently as the Carrier Bot).
+    </string>
+    
+    <string name="help_guard">
+Guards are responsible for maintaining the security in the colony, they can:(n)
+- Fight intruders, ideally they will be armed, so they can do this more efficiently.
+- Operate the Security Console, to detect intruders before they do too much damage.
+
+Guards come to the base unarmed. Fighting armed attackers without weapons is very close to suicide, so it's a good idea to get your guards some weapons.
+To do this you need to either produce Guns in the Arms Workshop or buy them from traders. When a Gun is available Guards will pick it up and become armed.
+    </string>
+    
+	<string name="help_visitor">
+Visitors are people that are not living in the colony. They will typically come to the base, use services and then pay for them with Coins.(n)
+They will only arrive through the Starport and only if the colony has enough prestige.(n) 
+    </string>
+    
+	<string name="help_intruder">
+Intruders are criminal elements that will sometimes try to take over your base. They will come in Colonist or Visitor ships once your colony has reached a certain prestige.(n)
+You need Guards, ideally armed, to fend them off.(n)
+In case of an emergency you can declare a red alert in the Security Controls Panel (you need a Control Center for this), and all colonists will try to neutralize them.(n)
+    </string>
+    
+    <string name="help_resources">
+You will need to manage a variety of Resources to keep your base running. They range from raw resources like Ore and Starch, to finalized products like Semiconductors or Guns.(n)
+Resources decay and will ultimately disintegrate when not in a Storage or inside a component, so it's important to keep them in a safe place.(n)
+Resources from the Colony Ship are more durable and will take longer to disintegrate, but it is still a good idea to store them eventually.(n)
+    </string> 
+    
+    <string name="help_ore">
+Ore can be mined from a Mine, by a Worker or Driller Bot.(n)
+The main use for Ore is to process it into Metal in the Metal Processor inside the Processing Plant.(n)
+    </string> 
+    
+    <string name="help_starch">
+Starch is produced by some vegetables in the Bio-Dome.(n)
+Starch can be converted into Bioplastic in the Bioplastic Processor, inside the Processing Plant(n)
+    </string> 
+    
+    <string name="help_bioplastic">
+Bioplastic is one of the main resources used to construct interior structures and components.(n)
+Bioplastic can be produced from Starch in the Bioplastic Processor in the Processing Plant.(n)
+    </string> 
+    
+    <string name="help_metal">
+Metal is one of the main resources used to construct all structures and components.(n)
+Metal can be produced from Ore in the Metal Processor in the Processing Plant.(n)
+    </string> 
+
+    <string name="help_vegetables">
+Vegetables are the main source of food in the colony.(n)
+They are grown in Vegetable Pads at the Bio-Dome and they get transformed into Meals at the Meal Maker in the Canteen.(n)
+Vegetables come in various types, which the Meal Maker can use to produce mixed Meals.(n)
+    </string>     
+    
+    <string name="help_vitromeat">
+Vitromeat is synthetic meat, and it is usually the secondary source of food.(n)
+It is produced in the Tissue Synthesizer in the Lab.(n)
+Vitromeat can be of various types, which the Meal Maker can use to produce mixed Meals.(n)
+Vitromeat is not as efficient to be produced as Vegetables, but it helps keep a balanced diet for the colonists and it's a good usage of space in the Lab.(n)
+    </string>         
+    
+    <string name="help_meal">  
+Meals are eaten by colonists to replenish their nutrition levels.
+They are produced at the Meal Maker from Vegetables or Vitromeat (or both).
+
+There are several types of meals:
+- Basic: They are produced from a single ingredient (single type of vegetable or meat). They restore Nutrition levels, but if colonists eat too many of them in a row they can get Malnutrition.
+- Mixed: They are produced from preset combination of ingredients and they recover Morale as well as Nutrition.
+
+See Meal Maker help for a detailed explanation of how Meals work.(n)
+    </string>    
+    
+   	<string name="help_alcoholic_drink">
+Alcoholic Drinks can be consumed to recover Morale.
+They are produced from Vegetables at the Drinks Machine in the Bar.   
+    </string> 
+        
+    <string name="help_spares">
+Spares are used to maintain Solar Panels and Wind Turbines periodically.(n)
+They can be produced at the Spares Workshop component in the Factory, from Metal and Bioplastic.(n)
+If you run out of Spares, you will eventually run out of power too, which will cause the Oxygen Generators to stop functioning.
+    </string> 
+    
+    <string name="help_semiconductors">
+Semiconductors are electronic components used as a component for Bots and other items.(n)
+They can be produced at the Semiconductor Foundry component in the Factory, from Metal and Bioplastic.(n)
+    </string>    
+    
+    <string name="help_medicinal_plants">
+Medicinal Plants can be used to manufacture Medical Supplies.(n)
+They can be produced at the Medicinal Pad in the Bio-Dome(n)
+    </string>    
+    
+    <string name="help_medical_supplies">
+Medical Supplies are used by Medics to cure certain types of conditions.(n)
+They can be produced at the Workbench in the Lab from Medicinal Plants and Bioplastic.(n)
+    </string>    
+    
+	<string name="help_gun">
+Guns are weapons that are used mainly by Guards to fend of intruders.(n)
+They can be produced at the Arms Workshop in the Factory.(n)
+When a gun is produced, any unarmed Guards will automatically pick it up and become armed. If there are no unarmed Guards, then the Gun will be stored in an Armory or Storage.(n)
+Regular colonists will also pick up a Gun and use it against intruders if the base is on Red Alert.
+    </string>                    
+    
+    <string name="help_coins">
+Coins are the universal cryptographic currency. You can use them to buy goods from traders.(n)
+You can obtain Coins by selling products to traders or by providing services to visitors.(n)
+    </string> 
+        
+    <string name="help_bots">
+Bots can perform some simple tasks more efficiently than humans.(n)
+They can be purchased from Traders or be built in the Robotics Facility.(n)
+They don't need to eat, sleep or breathe, but they need to be maintained at some point, an Engineer can do that, or later this can be done automatically in the Bot Auto Repair.(n)
+Bots have a limited lifespan, after a certain amount of time they will cease to operate and will have to be recycled. This is reflected in the Integrity indicator in the info panel.(n)
+    </string> 
+    
+    <string name="help_bot_carrier">
+The Carrier Bot is the simplest kind of Bot, all they do is to carry resources around.(n)
+It is however important that you have a bunch of these in your colony, since it is a bit of a waste to have Humans do this kind of work, as they are not very good at it.(n)
+    </string>
+    
+    <string name="help_bot_constructor">
+The Constructor Bot can build and repair structures.(n)
+They can also carry build and repair materials, but they will not carry other resources around.(n)
+Having a few of these around will free Engineers to perform more important tasks.(n)
+    </string>
+    
+    <string name="help_bot_driller">(n)
+The Driller Bot can extract Ore in the Mine.(n)
+This will reduce the amount of Workers you have to send to the mines, which is a good thing, as it is usually a very dangerous job.(n)
+If you also have a Bot Auto Repair, the driller will automatically go back to base to self-repair when required.(n)
+    </string>
+    
+    <string name="help_base_management">
+The Base Management menu allows you to control various general aspects of your base.
+    </string>
+    
+	<string name="help_colonist_status">
+Colonists have several status indicators that reflect how they are doing. You should probably monitor colonist status and make sure it is above acceptable levels.(n)
+When an status indicator is low, a warning sign will appear on top of that colonist indicating what's wrong.(n)
+    </string>       
+    
+    <string name="help_health">
+This is a measure of the physical health of a colonist, if it goes too low, the colonist will die.(n)
+Health slowly recovers by itself in normal circumstances, unless the other status indicators are low or the colonist is affected by a Condition.(n)
+    </string>
+    
+    <string name="help_nutrition">
+This is a measure of how well fed a colonist is, if it goes too low, Health will start to drop, and the colonist will eventually die.(n)
+Colonists usually get fed by eating Meals in the Canteen. Meals are usually made in the Meal Maker from Vegetables or Vitromeat.(n)
+    </string>
+    
+    <string name="help_hydration">
+This is a measure of how thirsty a colonist is, if it goes too low, Health will start to drop, and the colonist will eventually die.(n)
+Colonists can drink water at a Drinking Fountain, that can be placed in the Canteen or in the Multi-Dome.(n)
+    </string>
+    
+    <string name="help_oxygen">
+This measures the Oxygen level of a colonist, if it goes too low, Health will start to drop, and the colonist will eventually die.(n)
+When indoors, colonists need to be a in a structure with enough oxygen in it.(n)
+When outdoors, colonists will slowly breathe oxygen from their space suits, and at some point they will need to get back inside to replenish.(n)
+    </string>
+    
+	<string name="help_sleep">
+This is a measure how sleepy a colonist is. If it goes low, colonists will be less effective at work, and they will stop working altogether if it drops below a certain level.(n)
+Colonists can sleep in a Bunk in the Dorm. They will try to do this at night and keep a routine, but if they can't, either because they need to work or there is no space, they will do it at any time.(n)
+Another way of recovering sleep is in a proper Bed in a Cabin. This recovers sleep faster and also recovers morale.(n)
+    </string>
+    
+    <string name="help_morale">
+This is a measure of the psychological health of a colonist. If it goes low, colonists will be less effective at work, and they will stop working altogether if it drops below a certain level.(n)
+Working and carrying stuff around decreases morale.(n)
+Other events like disasters, or people dying will also impact morale.(n)
+Larger populations have an adverse impact on morale.(n)
+Morale can be recovered in a variety of ways:(n)
+- By using one of the leisure components like the Video Screen, Bench, Treadmill, Exercise Bar, Decorative Plant and Trees. A colonist can only use the same type of component once in a while, so it is important to build a variety of them.(n)
+- At the Bar by drinking an Alcoholic Drink, there is no limit on how many times a colonist can do this, but this consumes the base's resources.(n)
+- By eating a mixed meal, like pasta, salad or burger.(n)
+- By sleeping in a Bed in the Cabin.(n)
+    </string>
+    
+    <string name="help_stats">
+Panel that shows information about the overal status of the colony, contains several indicators:(n)
+- Welfare: This is a measure of how well run the colony is. The higher this is, the more frequently new colonist and visitor ships will arrive.(n)
+- Prestige: This is a measure of the reputation of the colony. It's calculated based on population, resources, prestige buildings and other factors.(n)The higher this is, the more frequently new colonist and visitor ships will arrive, however this can also increase the chances of intruders trying to take over the base.(n)
+- Humans: How many humans and of what specializations are there in the base.(n)
+- Bots: How many bots and of what type are there in the base.(n)
+- Resources: Total number of resources of each type.(n)
+    </string>    
+   
+	<string name="help_charts">
+Panel that shows charts detailing the evolution of various indicators in the colony.(n)
+You can enable or disable any chart by clicking on the relevant button.(n)
+Shift+Click will toggle a particular stat white disabling all others.(n)
+	</string>    
+    
+    <string name="help_grids_panel">
+Panel indicating the state of the power and water grids as well as the balance of oxygen in the colony.(n) 
+From here you can also cut power to all non vital structures in the colony in one go, this is useful in case of emergency to prevent the colony from running out of power.(n)
+    </string>    
+    
+    <string name="help_landing_permissions">
+The Landing Permissions panel allows you to control what ships are allowed to land in your base.
+
+- Colonist: Allows ships with new colonists to land and the people inside them to become a part of your colony.
+- Trader: Allows trading ships to land.
+- Visitor: Allows ships containing visitors to land. Visitors will typically use the base's services and pay a few Coins for it.
+
+- Specializations: Controls what kind of new colonists you will be accepting in the base. You can select the desired total percentages for each specialization, and the right colonists will be allowed in to try to match these percentages.
+	
+	</string>
+	
+	<string name="help_manufacture_limits">
+The Manufacturing Limits panel allows you to specify the maximum number of units for the various manufactured goods. After you hit the limit, no more of that item will be produced.(n)
+Most of these goods require Bioplastic and Metal to produce, it is sometimes a good idea to limit the production to avoid exhausting your basic resources.(n)
+
+	</string>
+	
+	<string name="help_security_controls">
+The Security Controls panel allows you to control the alert status of the colony. There are 3 main settings:
+
+- No Alert: All colonists go about their duties normally.
+
+- Yellow Alert: All colonists stay indoors and Medics and Guards are on extended duty. 
+You might choose to use this setting during a disaster to prevent colonists from getting hurt.
+You might also activate this setting during an attack, to ensure that all available Guards attack the intruders.
+
+- Red Alert: Same as Yellow Alert, but all colonists will try to attack any intruders, with weapons if they have them, or without if they don't.
+You might activate this setting when you have no Guards to defend the base, or when they have been overwhelmed by the intruders.
+	</string>
+	
+	<string name="help_oxygen_flow">
+Managing the oxygen flow is essential to keep your base functioning properly.(n)
+Oxygen is generated in the Oxygen Generators, and it will then flow to nearby structures until the optimal 22% level is reached.(n)
+Colonists will consume oxygen from the structure where they are, this oxygen will then be replenished by the flow of oxygen from nearby structures.(n)
+This means that structures further from Oxygen Generators, might have lower oxygen levels even if there is theoretically enough oxygen being produced to supply the entire base population.(n)
+It is then a good idea to place Oxygen Generators near structures that are usually more crowded, like Dorms or Bio-Domes, otherwise the oxygen level might drop below safe levels and colonists will stop using these structures.(n)
+	</string>
+	
+	<string name="help_recycling">
+Recycling structures or components allows you to recover some of the resources you spent building them.(n)
+If you run out of resources this can be a good way of getting some emergency materials to keep your colony working.(n)
+
+- You will get most of your resources back when recycling structures
+- You will get all your resources back in the case of components
+- You will get some extra resources when recycling the Colony Ship
+	</string>
+	
+	<string name="help_colony_ship">
+The Colony Ship contains some resources that will allow you to start the construction of your colony. It is important that you spend them wisely, and try to be self sufficient as soon as possible.(n)
+You can recycle the Colony Ship and you will get some extra resources. This will also free up space to build more structures where the Colony Ship once was.
+	</string>
+	
+	<string name="help_meteor">
+Meteors will continuously hit a planet in random points on their surface, especially if the planet doesn't have an atmosphere.(n)
+If a meteor hits any of your structures it will severely damage them and probably kill everyone inside it.(n)
+Damaged structures will automatically be repaired by an Engineer or Constructor Bot, assuming they are accesible.(n)
+Ideally you will have redundant paths between interior structures in your colony so when a meteor hits something there is still a way to navigate around the base.(n)
+You can build an Anti Meteor Laser in conjunction with several Telescopes to detect and destroy meteors before they hit your base.(n)	
+	</string>
+		
+	<string name="help_sandstorm">
+Sandstorms can happen at any time in some planets.(n)
+While a they are passing by, Solar Panels will cease to operate, but Wind Turbines will operate at full power.(n)
+Any colonists that are outside the base will walk slowly, and their health will decrease over time.(n)
+If you've built a Control Center you can set the base to yellow alert in the Security Controls Panel and prevent colonists from going outside the base.(n)
+If you build and operate a few Telescopes, you might be warned before the sandstorm actually happens.(n)
+	</string>
+	
+	<string name="help_blizzard">
+Blizzards can happen at any time in some planets.(n)
+While a they are passing by, Solar Panels will cease to operate, but Wind Turbines will operate at full power.(n)
+Any colonists that are outside the base will walk slowly, and their health will decrease over time.(n)
+If you've built a Control Center you can set the base to yellow alert in the Security Controls Panel and prevent colonists from going outside the base.(n)
+If you build and operate a few Telescopes, you might be warned before the blizzard actually happens.(n)
+	</string>
+	
+	<string name="help_thunderstorm">
+Some planets are engulfed in perpetual Thunderstorms.(n)
+Lightning strikes can kill colonists and damage structures.(n)
+You can use Lightning Rods to protect your base, and additionally harvest the lightning energy.(n)
+	</string>
+	
+	<string name="help_solar_flare">
+Solar Flares are sudden bursts of energy from a nearby star.(n)
+Any colonists caught outside the base during one will be affected by Radiation, and might eventually die if not treated in the Sick Bay.(n)
+If you've built a Control Center you can set the base to yellow alert in the Security Controls Panel and prevent colonists from going outside the base.(n)
+If you build and operate a few Telescopes, you might be warned before the solar flare actually happens.(n)
+	</string>
+	
+	<string name="help_condition">
+Colonists can be affected by a variety of conditions. Some of them are deadly, some are not, some require medical treatment, some are just minor nuisances.
+	</string>
+	
+	<string name="help_trauma_injuries">
+Condition that can occur due to mining or other kinds of accidents. 
+It's not deadly, but affected colonists won't be able to work. Can be cured by a Medic in the Sick Bay using Medical Supplies.(n)
+Its usually a good idea to replace Workers by Driller Bots in the Mines to prevent this from happening.(n)
+	</string>
+	
+	<string name="help_radiation">
+Severe condition usually as a result of exposure to solar flares or industrial accidents. 
+Needs to be quickly treated by a Medic in the Sick Bay using Medical Supplies, otherwise will most probably result in death.(n)
+	</string>
+	
+	<string name="help_malnutrition">
+Condition that occurs as a result of not eating enough variety of food.
+It's not deadly, but affected colonists won't be able to work. Can be cured by an Medic in the Sick Bay using Medical Supplies.(n)
+See Meal Maker help for a detailed explanation of how Meals work.(n)
+	</string>
+	
+	<string name="help_combat_wounds">
+Severe condition that occurs as a result of being hit by firearms.(n)
+Needs to be quickly treated by a Medic in the Sick Bay using Medical Supplies, otherwise will most probably result in death.(n)
+	</string>
+	
+	<string name="help_flu">
+Condition that sometimes can be brought into the base by visitors or new colonists.
+Not usually serious, but it is contagious, and prevents colonists from working.(n)
+	</string>
+	
+	<string name="help_trading">
+Once you've built a Landing Pad or Starport, traders will start arriving at your base. You can buy resources, techs and bots from them, in exchange for your own resources.(n)
+Trading ships come in two sizes, the small independent trader ships, and the larger corporate traders.(n)
+Corporate traders carry more resources, and are more likely to have techs and bots for sale, but they will only land at the Starport.(n)
+Some traders are generalists, they carry all kinds of products, some will only buy or sell some types of goods.(n)
+Every trader has a commision, which is the extra amount they will charge you for products, this is indicated in the trade panel. Depending on how much you need the resources you might be able to wait for traders with lower comission.(n)
+Note that only resources that are not being currently used or are inside a component can be traded.(n)
+Once you commit to a trade your colonists and bots will carry the required resources to the trading ship, this can take some time, so it's usually a good idea to build Airlocks and Storages near the Landing Pads and Starports.(n)
+	</string>
+	
+	<string name="help_techs">
+Techs allow you to build certain buildings, manufacture certain bots, or grow certain plants.(n)
+They can be bought from traders at expensive prices. They are not strictly required to run your base, but having them will allow you to run a much smoother operation.(n)
+The Techs Panel shows all available Techs and what they do.(n)
+	</string>	
+	
+	<string name="help_milestones">
+Every time you archieve something significant in your colony you will unlock a milestone.(n)
+You can see a description of each milestone and what you need to do to complete it in the Milestone Panel.(n)
+Some planets require that you complete a specific number of milestones before you can play them.(n)
+The game is open ended in nature, but one of the major challenges would be to unlock all milestones in all planets.(n)
+	</string>
+	
+	<string name="help_metagame">
+The more complicated mechanics of the game are explained in this section a bit more in-depth.(n)
+	</string>
+
+	<string name="help_food">
+One of the more challenging aspects of keeping your colony functioning is the production and preparation of food. One wrong move and you could cause a death spiral that can get everyone killed, even in a large and stable colony.(n)
+The main food source are vegetables, you should always produce plenty of these, ideally you will produce a bit of a surplus, and if required you can sell the excess to traders.(n)
+The amount of Biologists required to maintain the vegetables will vary depending on their type, but in general a good rule is to keep one Biologist for every 2-3 vegetable pads.(n)
+The main tool for controlling the flow of food is the charts panel, if the food stocks are decreasing, complete disaster is only a matter of time. Address the situation immediately before you run out of food, as the chaos that will ensue when people go hungry might be hard to deal with.(n)
+Having plenty of Meal Makers is also important, apart from producing food, they also serve as storage. If one is available when food is produced, you will save your colonists two trips to the nearest Storage (one to store the food and another one to take it back to the Meal Maker).(n)
+The best way to avoid Malnutrition is to plant a variety of Vegetables, and also some Vitromeat. Usually a ratio of 2:1 Vegetables to Vitromeat should work well.(n)
+The most common reason for a colony running into food problems is accepting more colonists than the food production can cope with. It is important to ensure you can feed new colonists before allowing them in your base.(n)
+	</string>
+
+	<string name="help_power">
+The base needs to be fully powered at all times, otherwise things can turn ugly very quickly. A good amount of power generators and collectors will be required, as well as a constant supply of Spares to maintain them.(n)
+It's good to monitor the power storage charts regularly. They will provide information on whether there is need for more power generators, or storage, or both.(n)
+If you can see you are going to run out of power during the night, disable non critical structures before it happens. You can do this manually or using the button in the grids panel.(n)
+Solar power, when available, is usually the most reliable source of energy. On the Class D planet it is usually a good idea to produce 2/3 or your power from solar.(n)
+	</string>
+
+	<string name="help_repairs">
+Solar Panels and Wind Turbines need to be constantly repaired to keep them functioning. They are maintained using Spares, which are produced in the Factory.(n)
+Spares are made from Metal and Bioplastic by Engineers, make sure you always have some of these resources available, as the maintenance of generators is critical.(n)
+Constructor Bots can repair structures a lot faster than Engineers. Having some will greatly reduce the workload on the humans and free them to do more important tasks.(n)
+Larger generators need to be maintained more often, but they are still more efficient, as they require less spares per produced KW.(n)
+Any dome might have to be repaired if it gets hit by a meteor or lightning, but this doesn't require spares.(n)
+	</string>
+
+	<string name="help_immigration">
+Controlling the flow of new colonists in the base is critical, in order to maintain the right proportions between the different specializations.(n)
+It is very important to note, that the percentages in the Landing Permissions panel are NOT the ratios of new arrivals, but the desired ratios of total colonists in the base. The default values usually work fine at the beginning and then later on you can add some guards to the mix.(n)
+Before allowing too many colonists in the base, it is important to ensure that you are producing enough food, oxygen and power to deal with them.(n)
+One special type of new arrivals are visitors, they use the base's resources and pay a fee for them. Over time, visitors can provide a healthy income for your base, and require less work than trading with merchants. Make sure you have the facilities to deal with them quickly, so they don't occupy your landing pads for long.(n)
+	</string>
+		
+	<string name="help_pathing">
+When designing the base's layout, it's important to keep in mind the distances colonists will have to travel as a result.(n)
+Colonists should be able to eat, work and sleep without having to travel long distances, this can be achieved by placing Canteens and Dorms near the production facilities.(n)
+Having Storages and Airlocks near the Landing Pads makes trading much faster, and placing Storages around the base allows for colonists to deal with excess production quickly.(n)
+The base should have plenty of airlocks around, so colonists don't have to travel long distances in the wilderness.(n)
+Solar Panels and Wind Turbines need to be maintained, so they should be placed as close to the base as possible. Power Collectors and Water Extractors can be placed anywhere.(n)
+When designing your base, ensure that there are efficient internal routes between different areas. If the shortest route between two points involves a trip outside the base, this puts your colonists at increased risk of asphyxiation and exposure to hostile planetary conditions.(n)
+	</string>
+
+	<string name="help_ai">
+Colonists have a set of rules, and they behave according to them. They cannot directly be told what to do: the game requires that you understand their behavior, and make the right decisions to get them to do what it's needed.(n)
+When colonists are low on nutrition, hydration, sleep or morale they will work at reduced speed, or if their status is very low, they will refuse to work altogether, but will still eat. Their status can be checked in the info panel by selecting them. Avoid having non-working colonists at all costs.(n)
+If colonists are not doing what they should, there is usually a reasonable cause even if it might not seem that obvious, they probably don't have the right resources, or they are injured, or their stats levels are too low, or they are doing a task they consider more important.(n)
+Colonists have a predefined set of priorities, this can be altered by setting some of the domes to high priority, but the system should not be abused, otherwise they might work in the wrong tasks. Most of the time, you should be able to run the base with the default priorities.(n)
+When the base grows, Bots are fundamental, otherwise colonists will spend most of their time carrying stuff around or doing basic tasks, instead of doing the high level work that only humans can do.(n)
+	</string>
+
+	<string name="help_hints">
+(loading_hints)
+	</string>
+	
+</strings>
